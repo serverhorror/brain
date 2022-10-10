@@ -80,6 +80,7 @@ preview:
   enableKatex: true
   automaticallyShowPreview: false
 publishing:
+  theme: dark
   enableFMTitle: true
   enableNoteTitleForLink: true
   enablePrettyRefs: true
