@@ -1,8 +1,8 @@
 ---
 id: e89l2klu51tudojlm6boo4b
-title: Gcp
+title: Google Cloud Platform [GCP]
 desc: ''
-updated: 1664186312266
+updated: 1665439000048
 created: 1664186016517
 tags:
   - kb

@@ -92,7 +92,7 @@ publishing:
   siteUrl: https://serverhorror.github.io
   siteRootDir: docs
   seo:
-    title: Dendron
+    title: Server!/Horror!
     description: Personal Knowledge Space
   github:
     enableEditLink: true
@@ -103,5 +103,5 @@ publishing:
   enableFrontmatterTags: true
   enableHashesForFMTags: false
   enableRandomlyColoredTags: true
-  enableTaskNotes: true
+  enableTaskNotes: false
   enablePrettyLinks: true
