@@ -2,7 +2,7 @@
 id: hxvpl71463ziybnqwkmce7f
 title: make on Windows
 desc: ''
-updated: 1665436751364
+updated: 1664021417305
 created: 1664021233208
 tags:
   - kb
@@ -21,6 +21,8 @@ tags:
   winget install -e --id GnuWin32.Make
   ```
 
+  ![isntall _GnuWin32_](/assets/images/2022-09-24-12-15-46.png)
+
 * Run `make` from any `cmd.exe` or _PowerShell_
 
   * Add the location of `make.exe` to your path
@@ -35,6 +37,7 @@ tags:
 
   * To be able to run it you need to restart your current terminal
     This is the usual process to reload new environment variables
+    ![](/assets/images/2022-09-24-12-28-32.png)
 
 ## MSYS2
 
@@ -47,6 +50,7 @@ winget install -e --id msys2.msys2
 ### Running `make` from MSYS2
 
 * Run _MSYS2_ from the start menu
+  ![MSYS2](/assets/images/2022-09-24-12-09-49.png)
 
 * Install make inside of _MSYS2_
 
@@ -59,3 +63,5 @@ winget install -e --id msys2.msys2
   ```text
   which make
   ```
+
+  ![run make in _MSYS2_](/assets/images/2022-09-24-12-12-38.png)
