@@ -42,17 +42,11 @@ jobs:
         run: npm install
       - name: Build pod
         run: npx dendron publish export
-      - name: Package Pages
-        run: tar -C .next/out -cz -f site.tar.gz .
-      - name: debug
-        run: pwd
-      - name: debug
-        run: find . -name site.tar.gz
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload relevant files
-          path: "site.tar.gz"
+          path: ".next/out"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
