@@ -88,7 +88,7 @@ publishing:
   siteHierarchies:
     - root
   writeStubs: false
-  assetsPrefix: dendron-play
+  assetsPrefix: /dendron-play
   siteUrl: https://serverhorror.github.io
   siteRootDir: docs
   seo:
