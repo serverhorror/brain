@@ -1,5 +1,5 @@
 ---
-id: n7x1ojsacshjbz28izk89sl
+id: sgefrbe3a1dujz9n4qk7nij
 title: Kubernetes
 desc: ''
 updated: 1665438335125

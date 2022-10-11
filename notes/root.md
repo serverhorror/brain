@@ -2,13 +2,13 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1665486160493
+updated: 1665486250726
 created: 1665428988423
 ---
 
 ## Knowledge Base
 
-![[kb.*]]
+![[kb]]
 
 ## Lookup
 

@@ -1,5 +1,5 @@
 ---
-id: lvapahdss8fktaqpbufod3v
+id: gng7clncm9nrks4pe59q1kh
 title: SCORM
 desc: ''
 updated: 1663753290831
@@ -10,7 +10,7 @@ tags:
 ---
 
 SCORM (Sharable Content Object Reference Model) is a file format/specification for e-learning.
-It integrates with (all) [[kb.LMS]] systems
+It integrates with (all) [[kb.lms]] systems
 
 You can produce SCORM with [[kb.Camtasia]]
 

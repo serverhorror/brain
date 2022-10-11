@@ -1,6 +1,6 @@
 ---
-id: e89l2klu51tudojlm6boo4b
-title: Google Cloud Platform [GCP]
+id: 93k9wcu5y76xfky8h8j22mb
+title: 'Google Cloud Platform [GCP]'
 desc: ''
 updated: 1665439000048
 created: 1664186016517

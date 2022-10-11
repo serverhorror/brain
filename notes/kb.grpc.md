@@ -1,5 +1,5 @@
 ---
-id: df9tu6bxlp5gkd3a7n48n8c
+id: vezw34h0ye9jeumf87ppbx6
 title: gRPC
 desc: ''
 updated: 1664265832431
