@@ -2,7 +2,7 @@
 id: ck6zlerrtdccv0fxnko3qxn
 title: Go
 desc: ''
-updated: 1664186706981
+updated: 1665485881915
 created: 1664020967164
 tags:
   - kb
@@ -29,6 +29,13 @@ tags:
 
   //go:build tools
 
+
+  // This allows us to have a "self contained" codebase,
+  // there are not (a lot of) external tools required for this to work.
+
+  //go:generate go install "google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest"
+  //go:generate go install "google.golang.org/protobuf/cmd/protoc-gen-go@latest"
+
   package main
 
   import (
@@ -41,6 +48,8 @@ tags:
 
   ```text
   go mod tidy
+  go get -tags tools ./...
+  go generate -tags tools
   ```
 
 ## gRPC

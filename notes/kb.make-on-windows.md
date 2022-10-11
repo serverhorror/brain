@@ -2,7 +2,7 @@
 id: hxvpl71463ziybnqwkmce7f
 title: make on Windows
 desc: ''
-updated: 1664021417305
+updated: 1665484045421
 created: 1664021233208
 tags:
   - kb
@@ -21,7 +21,7 @@ tags:
   winget install -e --id GnuWin32.Make
   ```
 
-  ![isntall _GnuWin32_](/assets/images/2022-09-24-12-15-46.png)
+  ![install _GnuWin32_](/assets/images/2022-09-24-12-15-46.png)
 
 * Run `make` from any `cmd.exe` or _PowerShell_
 
