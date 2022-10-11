@@ -2,7 +2,7 @@
 id: dbr6rqwkn7tuutpjyngkwyz
 title: IT Career Path
 desc: ''
-updated: 1664297783459
+updated: 1665486925163
 created: 1664287481752
 ---
 
@@ -35,27 +35,7 @@ and we will trust you bring in peers from other areas as you see fit.
 
 ## Principal
 
-| Label                   | level |
-| ----------------------- | :---: |
-| Lead / Mentor           |   ➕   |
-| Scope of Responsibility |   ➕   |
-| Job Ambiguity           |   ➕   |
-| Job Complexity          |  ➕➕   |
-
-### Description
-
-...
-
-### Profile
-
-* can _work without supervision_
-* can have _**one or more** responsibility roles_
-
-—
-
-* can learn new topics
-* can teach others
-* can analyze and resolve complex situations in detail
+![[Principal Level|project.it-career-path.principal-level]]
 
 ## Senior Principal
 
