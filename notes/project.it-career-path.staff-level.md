@@ -2,7 +2,7 @@
 id: yydlraknloi9xprdkazlf26
 title: Staff Level
 desc: ''
-updated: 1664297957872
+updated: 1666864401818
 created: 1664289651415
 ---
 
@@ -37,7 +37,7 @@ created: 1664289651415
    to analyze error situations
    _and_ help them fix these situations.
 2. We expect you to be able to work with peers outside of your team
-   _and_ propose solutions that are aligned with 
+   _and_ propose solutions that are aligned with
    teams or colleagues from your division.
 3. We will provide guidance on networking with your peers,
    aligning with a broader community

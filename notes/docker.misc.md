@@ -2,11 +2,11 @@
 id: nutu4yqw6s7bst20gm794xs
 title: Misc
 desc: ''
-updated: 1665437954554
+updated: 1666864287540
 created: 1665437949507
 ---
 
-# Misc
+## Misc
 
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'monotoneX' } } }%%

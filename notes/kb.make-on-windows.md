@@ -37,7 +37,7 @@ tags:
 
   * To be able to run it you need to restart your current terminal
     This is the usual process to reload new environment variables
-    ![](/assets/images/2022-09-24-12-28-32.png)
+    ![make output](/assets/images/2022-09-24-12-28-32.png)
 
 ## MSYS2
 

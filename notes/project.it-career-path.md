@@ -32,7 +32,6 @@ and we will trust you bring in peers from other areas as you see fit.
 
 ![[project.it-career-path.senior-level]]
 
-
 ## Principal
 
 ![[Principal Level|project.it-career-path.principal-level]]

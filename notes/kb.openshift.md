@@ -14,5 +14,5 @@ tags:
 
 ## Commercial
 
-* https://www.redhat.com/en/technologies/cloud-computing/openshift
+* <https://www.redhat.com/en/technologies/cloud-computing/openshift>
 * [[company.redhat]]
