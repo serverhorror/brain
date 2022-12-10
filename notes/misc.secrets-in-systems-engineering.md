@@ -2,7 +2,7 @@
 id: gz0ju3m3zawu8asciyxsz6o
 title: Secrets in Systems Engineerin
 desc: ''
-updated: 1670684879708
+updated: 1670684915918
 created: 1670684857748
 ---
 
@@ -10,4 +10,4 @@ created: 1670684857748
 >
 > Or how many *can't* actually be explained or understood, given existing telemetry.
 
-https://twitter.com/mipsytipsy/status/992130364104630272
+_Source: [Charity Majors (@mipsytipsy)](https://twitter.com/mipsytipsy/status/992130364104630272)_
