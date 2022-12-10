@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "vsls-contrib.gitdoc"
+        "vsls-contrib.gitdoc",
+        "johnpapa.vscode-peacock"
     ]
 }
