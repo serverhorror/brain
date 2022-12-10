@@ -1,8 +1,8 @@
 ---
 id: gz0ju3m3zawu8asciyxsz6o
-title: Secrets in Systems Engineerin
+title: Secrets in Systems Engineering
 desc: ''
-updated: 1670684915918
+updated: 1670685425849
 created: 1670684857748
 ---
 
