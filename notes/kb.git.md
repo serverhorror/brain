@@ -2,7 +2,7 @@
 id: x4pn71mwd404ce9lxmdfonf
 title: Git
 desc: ''
-updated: 1670682429865
+updated: 1670682491109
 created: 1670682312698
 tags:
     - go
@@ -11,7 +11,8 @@ tags:
 ## Using **BitBucket Server** with Go and Git
 
 1. Create a personal access token
-1.
-
-
-git config --global url."https://martin.marcher@boehringer-ingelheim.com:ODQxMzQxMzE1NzM4OqMP1eAhOZVAAFQHZ9EY6ljRIF0V@boehringer.biscrum.com".insteadOf "https://boehringer.biscrum.com"
+1. Do this for your git configuration
+   ```text
+   git config --global url."https://<username>:<personal-access-token>@bitbucket.example.com".insteadOf "https://bitbucket.example.com"
+   ```
+1. asdf
