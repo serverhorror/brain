@@ -6,3 +6,5 @@ seeds
 pods/service-connections
 .dendron.cache.*
 docs/
+
+.backup
