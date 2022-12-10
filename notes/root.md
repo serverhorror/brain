@@ -2,9 +2,14 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1665486250726
+updated: 1670682053203
 created: 1665428988423
 ---
+
+## Interesting Texts
+
+* [[misc.rules-on]]
+* [[misc.as-a-software-developer]]
 
 ## Knowledge Base
 
