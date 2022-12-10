@@ -2,7 +2,7 @@
 id: x4pn71mwd404ce9lxmdfonf
 title: Git
 desc: ''
-updated: 1670682491109
+updated: 1670682556685
 created: 1670682312698
 tags:
     - go
@@ -15,4 +15,7 @@ tags:
    ```text
    git config --global url."https://<username>:<personal-access-token>@bitbucket.example.com".insteadOf "https://bitbucket.example.com"
    ```
-1. asdf
+1. As your module URLs use something like this:
+   * `bitbucket.example.com/project/repo`
+
+     **Do NOT** use the `scm` part in the URL
