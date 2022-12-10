@@ -5,7 +5,7 @@ desc: ''
 updated: 1670682556685
 created: 1670682312698
 tags:
-    - go
+  - go
 ---
 
 ## Using **BitBucket Server** with Go and Git

@@ -1,13 +1,10 @@
 ---
 id: zho46odindd4qag9tiq8ijo
-title: As a Software Developer
+title: As a software developer
 desc: ''
 updated: 1670681747790
 created: 1670681680390
 ---
-
-# As a software developer
-
 by _[Lohn “Human Terror” Hochstein @norootcause](https://twitter.com/norootcause/status/1475518692041510915?s=12)_
 
 As a Software developer, you may be called upon to perform some of these tasks in your career. How well a CS degree prepares you for these tasks (and whether it even should prepare you for these) is left as an exercise to the reader.
@@ -39,7 +36,8 @@ As a Software developer, you may be called upon to perform some of these tasks i
 
 _...(I'll randomly do some more as it strikes me)..._
 
-25.  Instrument your code to make it easier to reason about its behavior when it's running (i.e., improve operability).
+25. Instrument your code to make it easier to reason about its behavior when it's running (i.e., improve operability).
 26. Describe, in writing, examples of the human activities that your software system is intended to support.
 27. Develop a deeper understanding of a system that you now work on but ^ W didn't build.
 28. Look into the history of how an internal system came to be implemented the way it was.
+
