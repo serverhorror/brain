@@ -2,7 +2,7 @@
 id: utksm5cjde6g2srko8qe3fn
 title: Docker
 desc: ''
-updated: 1665438124586
+updated: 1670780602732
 created: 1665437859494
 ---
 
@@ -40,9 +40,14 @@ dockerfile & containerfile --> image --> container
 
 ## Prepare your environment
 
-### Make sure you have a Hypervisor installed
+* Rancher Desktop
 
 #### Docker
+
+* `docker run`
+* `docker run -v ...`
+* `docker run -v ... -p ...`
+* `docker run -v ... -p ... --entrypoint`
 
 ---
 
