@@ -2,7 +2,7 @@
 id: utksm5cjde6g2srko8qe3fn
 title: Docker
 desc: ''
-updated: 1670780602732
+updated: 1670780635487
 created: 1665437859494
 ---
 
@@ -45,9 +45,9 @@ dockerfile & containerfile --> image --> container
 #### Docker
 
 * `docker run`
-* `docker run -v ...`
-* `docker run -v ... -p ...`
-* `docker run -v ... -p ... --entrypoint`
+* `docker run --volume ...`
+* `docker run --volume ... --port ...`
+* `docker run --volume ... --port ... --entrypoint`
 
 ---
 
