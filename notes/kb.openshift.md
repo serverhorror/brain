@@ -2,7 +2,7 @@
 id: 69vl7roho1zy0mmtrr23get
 title: OpenShift
 desc: ''
-updated: 1663335788786
+updated: 1670780435215
 created: 1663327936059
 tags:
   - kb
@@ -11,6 +11,8 @@ tags:
   - openshift
   - platform
 ---
+
+* [Creating images | Images | OpenShift Container Platform 4.11](https://docs.openshift.com/container-platform/4.11/openshift_images/create-images.html)
 
 ## Commercial
 
