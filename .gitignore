@@ -8,3 +8,9 @@ pods/service-connections
 docs/
 
 .backup
+
+## all things Python
+
+/**/.venv
+/**/__pycache__
+/**/.pytest_cache
