@@ -1,5 +1,5 @@
 {
-    "gitdoc.enabled": false,
+    "gitdoc.enabled": true,
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#fbed80",
         "activityBar.background": "#fbed80",
