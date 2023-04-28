@@ -8,7 +8,7 @@ created: 1665428988423
 
 ## Interesting Texts
 
-* [[misc.rules-on]]
+* [[misc.rules]]
 * [[misc.as-a-software-developer]]
 * [[misc.secrets-in-systems-engineering]]
 
