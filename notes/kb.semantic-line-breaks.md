@@ -2,7 +2,7 @@
 id: i072yxnbanm19trtm8ct37n
 title: Semantic Line Breaks
 desc: ''
-updated: 1682695292048
+updated: 1682695394170
 created: 1682695052578
 tags:
   - kb
@@ -11,21 +11,22 @@ tags:
 
 
 > ## Semantic Line Breaks Specification (SemBr)
-> The key words “must”, “must not”, “required”, “shall”, “shall not”, “should”, “should not”, “recommended”, “may”, and “optional” in this document are to be interpreted as described in RFC 2119.
 > 
-> Text written as plain text or a compatible markup language may use semantic line breaks.
-> A semantic line break must not alter the final rendered output of the document.
-> A semantic line break should not alter the intended meaning of the text.
-> A semantic line break must occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?).
-> A semantic line break should occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).
-> A semantic line break may occur after a dependent clause in order to clarify grammatical structure or satisfy line length constraints.
-> A semantic line break is recommended before an enumerated or itemized list.
-> A semantic line break may be used after one or more items in a list in order to logically group related items or satisfy line length constraints.
-> A semantic line break must not occur within a hyphenated word.
-> A semantic line break may occur before and after a hyperlink.
-> A semantic line break may occur before inline markup.
-> A maximum line length of 80 characters is recommended.
-> A line may exceed the maximum line length if necessary, such as to accommodate hyperlinks, code elements, or other markup.
+> The key words “must”, “must not”, “required”, “shall”, “shall not”, “should”, “should not”, “recommended”, “may”, and “optional” in this document are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+> 
+> 1. Text written as plain text or a compatible markup language may use semantic line breaks.
+> 1. A semantic line break must not alter the final rendered output of the document.
+> 1. A semantic line break should not alter the intended meaning of the text.
+> 1. A semantic line break must occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?).
+> 1. A semantic line break should occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).
+> 1. A semantic line break may occur after a dependent clause in order to clarify grammatical structure or satisfy line length constraints.
+> 1. A semantic line break is recommended before an enumerated or itemized list.
+> 1. A semantic line break may be used after one or more items in a list in order to logically group related items or satisfy line length constraints.
+> 1. A semantic line break must not occur within a hyphenated word.
+> 1. A semantic line break may occur before and after a hyperlink.
+> 1. A semantic line break may occur before inline markup.
+> 1. A maximum line length of 80 characters is recommended.
+> 1. A line may exceed the maximum line length if necessary, such as to accommodate hyperlinks, code elements, or other markup.
 
 > ## One sentence per line
 > When writing source documentation in a format such as Markdown, reStructuredText or AsciiDoc, I recommend you place every sentence on its own line and don’t use fixed-column word-wrapping.
