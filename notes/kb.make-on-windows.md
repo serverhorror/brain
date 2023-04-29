@@ -2,7 +2,7 @@
 id: nfdvu2ag1lcng764e8gvf8q
 title: make on Windows
 desc: ''
-updated: 1665484045421
+updated: 1682726744935
 created: 1664021233208
 tags:
   - kb
@@ -19,6 +19,8 @@ tags:
 
   ```text
   winget install -e --id GnuWin32.Make
+  winget install -e --id GnuWin32.Grep
+  winget install -e --id GnuWin32.Tree
   ```
 
   ![install _GnuWin32_](/assets/images/2022-09-24-12-15-46.png)
