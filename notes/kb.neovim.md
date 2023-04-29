@@ -1,8 +1,8 @@
 ---
 id: wfa0ezuoa81eppr89q46yac
-title: Neovim
+title: NeoVIM
 desc: ''
-updated: 1682756866056
+updated: 1682757096117
 created: 1682755423382
 tags:
   - kb
