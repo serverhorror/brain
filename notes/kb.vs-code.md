@@ -1,14 +1,15 @@
 ---
 id: iyfe99prifkm2956srumpqk
-title: Vs Code
+title: VS Code
 desc: ''
-updated: 1684518759359
+updated: 1684518824005
 created: 1663335829621
 tags:
-    - vscode
-    - docker
+    - code
     - container
     - containers
+    - docker
+    - vscode
     - wayland
 ---
 
