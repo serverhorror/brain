@@ -2,11 +2,13 @@
 id: iyfe99prifkm2956srumpqk
 title: Vs Code
 desc: ''
-updated: 1684518403357
+updated: 1684518434506
 created: 1663335829621
 ---
 
-## 
+## Docker mounts `wayland-0` on Windows
+
+Recent 
 
 ## Clean Up
 
