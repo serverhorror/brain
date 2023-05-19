@@ -2,8 +2,14 @@
 id: iyfe99prifkm2956srumpqk
 title: Vs Code
 desc: ''
-updated: 1684518677178
+updated: 1684518759359
 created: 1663335829621
+tags:
+    - vscode
+    - docker
+    - container
+    - containers
+    - wayland
 ---
 
 ## Docker mounts `wayland-0` on Windows
