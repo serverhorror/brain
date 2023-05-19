@@ -2,13 +2,13 @@
 id: iyfe99prifkm2956srumpqk
 title: Vs Code
 desc: ''
-updated: 1684518491553
+updated: 1684518570084
 created: 1663335829621
 ---
 
 ## Docker mounts `wayland-0` on Windows
 
-Recent versions of the 
+Recent versions of the "[_Dev Containers_ `ms-vscode-remote.remote-containers`]()"
 ```json
 {
     "dev.containers.mountWaylandSocket": false
