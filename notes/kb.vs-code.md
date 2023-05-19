@@ -2,13 +2,18 @@
 id: iyfe99prifkm2956srumpqk
 title: Vs Code
 desc: ''
-updated: 1684518434506
+updated: 1684518491553
 created: 1663335829621
 ---
 
 ## Docker mounts `wayland-0` on Windows
 
-Recent 
+Recent versions of the 
+```json
+{
+    "dev.containers.mountWaylandSocket": false
+}
+```
 
 ## Clean Up
 
