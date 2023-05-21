@@ -2,12 +2,12 @@
 id: x4pn71mwd404ce9lxmdfonf
 title: Git
 desc: ''
-updated: 1684701075151
+updated: 1684701125414
 created: 1670682312698
 tags:
+  - git
   - go
   - kb
-  - git
 ---
 
 ## Using **BitBucket Server** with Go and Git
