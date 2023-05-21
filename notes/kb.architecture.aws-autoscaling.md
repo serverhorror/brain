@@ -2,7 +2,7 @@
 id: fbuxij67knvy35xezze0ert
 title: AWS AutoScaling
 desc: 'Tutorial: Set up a scaled and load-balanced application'
-updated: 1684698357453
+updated: 1684698415535
 created: 1684697970837
 ---
 
@@ -20,4 +20,5 @@ created: 1684697970837
 1. LoadBalancer (pointing to TargetGroup)
 1. AutoScalingGroup
     * add to sg `alb-2-app-sg`
+    * register ASG with TG
 
