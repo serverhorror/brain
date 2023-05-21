@@ -2,7 +2,7 @@
 id: 6012myohcrm43359c2d6mws
 title: Rules ...
 desc: ''
-updated: 1682693999722
+updated: 1684700824157
 created: 1670681771719
 ---
 
@@ -55,4 +55,4 @@ created: 1670681771719
 > * Do not buy software that requires bare-metal.
 > * Manual data transfers and datastores maintained manually are to be avoided.
 
-_Source [Rules ...](https://gist.githubusercontent.com/serverhorror/253304/raw/da2c1f329fc85fdfc8906b7569824aeb2e8588a6/rules_on_infrastructure.mdown)
+_Source: [Rules ...](https://gist.githubusercontent.com/serverhorror/253304/raw/da2c1f329fc85fdfc8906b7569824aeb2e8588a6/rules_on_infrastructure.mdown)_
