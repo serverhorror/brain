@@ -2,8 +2,11 @@
 id: fbuxij67knvy35xezze0ert
 title: AWS AutoScaling
 desc: 'Tutorial: Set up a scaled and load-balanced application'
-updated: 1684699732838
+updated: 1684699915515
 created: 1684697970837
+tags: 
+    - architecture
+    - aws
 ---
 
 * [Tutorial: Set up a scaled and load-balanced application](https://docs.aws.amazon.com/autoscaling/ec2/userguide/tutorial-ec2-auto-scaling-load-balancer.html)
@@ -24,7 +27,7 @@ created: 1684697970837
     * register ASG with TG
     * use _Default_ version from LT
 
-## Using a custom image
+### Using a custom image
 
 1. create separate instance
 1. connect via SSH
@@ -32,3 +35,11 @@ created: 1684697970837
 1. in EC2 create image
 1. modify LT to use new image
 1. start instance refresh
+
+## Add a database
+
+1. SG `app-2-db`
+1. create instance
+1. copy connection information around
+    * follow _Using a custom image_ to recreate image and
+      renew instances
