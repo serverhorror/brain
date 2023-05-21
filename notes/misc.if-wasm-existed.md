@@ -1,8 +1,8 @@
 ---
 id: foxtk0ccnizla33r7h528cx
-title: If Wasm Existed
+title: If WASM+WASI existed ...
 desc: ''
-updated: 1682693903063
+updated: 1684702642968
 created: 1682693780399
 ---
 
