@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1670682605400
+updated: 1684701883008
 created: 1664020967164
 tags:
   - kb
@@ -55,15 +55,4 @@ tags:
 
 ## gRPC
 
-### Required Tools
-
-* Download the `protoc` compiler from
-
-  <https://github.com/protocolbuffers/protobuf/releases>
-
-* extract to `$env:USERPROFILE/sdk`
-* add `$env:USERPROFILE/sdk/<protoc-directory>/bin` to your path
-
-#### buf
-
-![[buf.build|kb.grpc#bufbuild]]
+![[kb.grpc#required-tools]]
