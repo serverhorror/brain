@@ -2,11 +2,12 @@
 id: fbuxij67knvy35xezze0ert
 title: AWS AutoScaling
 desc: 'Tutorial: Set up a scaled and load-balanced application'
-updated: 1684700287926
+updated: 1684701058861
 created: 1684697970837
 tags:
   - architecture
   - aws
+  - kb
 ---
 
 * [Tutorial: Set up a scaled and load-balanced application](https://docs.aws.amazon.com/autoscaling/ec2/userguide/tutorial-ec2-auto-scaling-load-balancer.html)

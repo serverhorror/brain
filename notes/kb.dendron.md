@@ -2,8 +2,10 @@
 id: t0h0wnipwmfqm6zzjoxhkgw
 title: Dendron
 desc: ''
-updated: 1666864294424
+updated: 1684701067485
 created: 1665440353393
+tags:
+  - kb
 ---
 
 
