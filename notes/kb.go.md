@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1684701883008
+updated: 1684702046869
 created: 1664020967164
 tags:
   - kb
@@ -56,3 +56,7 @@ tags:
 ## gRPC
 
 ![[kb.grpc#required-tools]]
+
+## buf
+
+![[buf.build|kb.grpc#bufbuild]]
