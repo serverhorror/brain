@@ -5,12 +5,12 @@ desc: ''
 updated: 1684518824005
 created: 1663335829621
 tags:
-    - code
-    - container
-    - containers
-    - docker
-    - vscode
-    - wayland
+  - code
+  - container
+  - containers
+  - docker
+  - vscode
+  - wayland
 ---
 
 ## Docker mounts `wayland-0` on Windows

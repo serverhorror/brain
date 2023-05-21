@@ -4,8 +4,8 @@ title: Architecture
 desc: ''
 updated: 1684699895242
 created: 1684697970846
-tags: 
-    - architecture
+tags:
+  - architecture
 ---
 
 ![[kb.architecture.*]]
