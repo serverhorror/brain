@@ -2,11 +2,12 @@
 id: 8d6djhk8nc302drfj3yteqj
 title: Kafka
 desc: ''
-updated: 1666864312738
+updated: 1684702256924
 created: 1663334021993
 tags:
   - kb
   - tool
+  - kafka
 ---
 
 ## Commercial
