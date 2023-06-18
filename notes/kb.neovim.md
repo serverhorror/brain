@@ -2,7 +2,7 @@
 id: wfa0ezuoa81eppr89q46yac
 title: NeoVIM
 desc: ''
-updated: 1687109673054
+updated: 1687112023576
 created: 1682755423382
 tags:
   - kb
@@ -23,7 +23,7 @@ winget install -e --id Neovim.Neovim
 
 ### Configure NeoVIM
 
-* let 
+* let NeoVIM tell where it will look for the config
 
 ```
 :echo stdpath('config')
