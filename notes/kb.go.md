@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1687107027770
+updated: 1687109123434
 created: 1664020967164
 tags:
   - kb
@@ -10,7 +10,6 @@ tags:
   - grpc
 ---
 
-![[kb.git#using-bitbucket-server-with-go-and-git]]
 
 ## General
 
@@ -59,3 +58,7 @@ tags:
 ## buf
 
 ![[buf.build|kb.grpc#bufbuild]]
+
+## Bitbucket
+
+![[kb.git#using-bitbucket-server-with-go-and-git]]
