@@ -2,7 +2,7 @@
 id: wfa0ezuoa81eppr89q46yac
 title: NeoVIM
 desc: ''
-updated: 1682757096117
+updated: 1687109289607
 created: 1682755423382
 tags:
   - kb
@@ -22,6 +22,10 @@ winget install -e --id Neovim.Neovim
 ```
 
 ### Configure NeoVIM
+
+```
+:echo stdpath('config')
+```
 
 Configuration files are in: `%LOCALAPPDATA%\nvim\init.vim`
 
