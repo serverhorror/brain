@@ -1,9 +1,18 @@
 ---
 id: p7s9mn93r5488it8zuhjjna
-title: Argocd
+title: ArgoCD
 desc: ''
-updated: 1687160651729
+updated: 1687160883959
 created: 1687160644786
 tags:
-    - #kb
+  - argocd
+  - cd
+  - ci
+  - cicd
+  - kb
+  - tool
 ---
+
+* [[kb.codefresh]]
+* [[kb.crossplane]]
+* [[kb.tekton]]
