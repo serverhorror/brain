@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1687109123434
+updated: 1695898406345
 created: 1664020967164
 tags:
   - kb
@@ -12,6 +12,9 @@ tags:
 
 
 ## General
+
+* [☁️ Air - Live reload for Go apps](https://github.com/cosmtrek/air)
+* [chi](https://go-chi.io/)
 
 ### Installing Tool Dependencies
 
