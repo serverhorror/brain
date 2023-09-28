@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1695898406345
+updated: 1695898615026
 created: 1664020967164
 tags:
   - kb
@@ -13,6 +13,7 @@ tags:
 
 ## General
 
+* [Learn Go with tests (quii.gitbook.io)](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces)
 * [☁️ Air - Live reload for Go apps](https://github.com/cosmtrek/air)
 * [chi](https://go-chi.io/)
 
