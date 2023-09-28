@@ -5,7 +5,7 @@ desc: ''
 updated: 1695888461458
 created: 1695888200489
 tags:
-    - blog
+  - blog
 ---
 
 I'm not saying there's no need to have a version (identifying reference number so we know what we refer to), but I don't think having a version makes something discrete or not.
