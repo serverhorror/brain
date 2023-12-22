@@ -2,7 +2,7 @@
 id: nofdebswzjlgy85a5rgng87
 title: 'YouTube Streaming Setup'
 desc: ''
-updated: 1703283787349
+updated: 1703284050760
 created: 1703279964263
 tags:
     - setup
@@ -25,7 +25,7 @@ DONE:
 1. Be Right Back
 
 TODO:
-1. Main (Gameplay)
+1. Content (Gameplay)
 1. Talk Show
 1. Stream Ended
 
