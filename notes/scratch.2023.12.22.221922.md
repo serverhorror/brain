@@ -2,7 +2,7 @@
 id: nofdebswzjlgy85a5rgng87
 title: 'YouTube Streaming Setup'
 desc: ''
-updated: 1703284050760
+updated: 1703284089534
 created: 1703279964263
 tags:
     - setup
@@ -23,11 +23,11 @@ Themes are overlays we designed and configured for you to use in your stream. Su
 DONE:
 1. Starting Soon
 1. Be Right Back
+1. Stream Ended
 
 TODO:
 1. Content (Gameplay)
 1. Talk Show
-1. Stream Ended
 
 ## What do I want in there?
 
