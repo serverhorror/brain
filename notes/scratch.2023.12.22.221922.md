@@ -2,7 +2,7 @@
 id: nofdebswzjlgy85a5rgng87
 title: 'YouTube Streaming Setup'
 desc: ''
-updated: 1703284089534
+updated: 1703287941937
 created: 1703279964263
 tags:
     - setup
@@ -21,14 +21,13 @@ Sources:
 Themes are overlays we designed and configured for you to use in your stream. SuperThemes are a complete set of 5 overlays: Gameplay, Talk Show, Starting Soon, Be Right Back and Stream Ended.
 
 DONE:
-1. Starting Soon
-1. Be Right Back
-1. Stream Ended
-
-TODO:
-1. Content (Gameplay)
-1. Talk Show
+* Starting Soon
+* Be Right Back
+* Stream Ended
+* Content (Gameplay)
+* Talk Show
 
 ## What do I want in there?
 
 * Chat! (duh)
+* optional: message showing what viewers can expect
