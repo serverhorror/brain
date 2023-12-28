@@ -2,7 +2,7 @@
 id: nxlvjm6hui0yaltptr19hok
 title: Windows Alt Tab
 desc: ''
-updated: 1703770088671
+updated: 1703770177491
 created: 1703770067787
 ---
 
@@ -13,3 +13,8 @@ created: 1703770067787
 3. Create a DWORD value named `AltTabSettings`.
 4. Set its value data to `1`.
 5. Restart Windows Explorer or sign out and sign in again to apply the change.
+
+   ```batch
+   taskkill /f /im explorer.exe
+   start explorer.exe
+   ```
