@@ -2,7 +2,7 @@
 id: 1ci4swjqclg8o3om6niefpj
 title: 'Knowledge Base [KB]'
 desc: ''
-updated: 1705160202192
+updated: 1705160298080
 created: 1665486252544
 tags:
   - kb
@@ -22,18 +22,4 @@ The platform provides more server side functionality than e.g. [[kb.hackerrrank]
 * https://sadservers.com/
 * https://github.com/fduran/sadservers
 
-## Customizing Go Binaries with Build Flags
 
-#go
-
-In your source code put this as the **first** line:
-
-```go
-// +build tag_name
-```
-
-Then build with:
-
-```bash
-go build -tags tag_name
-```

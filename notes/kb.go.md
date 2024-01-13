@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1705151878597
+updated: 1705160310709
 created: 1664020967164
 tags:
   - kb
@@ -66,3 +66,24 @@ tags:
 ## Bitbucket
 
 ![[kb.git#using-bitbucket-serverdatacenter-git]]
+
+
+## Customizing Go Binaries with Build Tags
+
+#go
+
+Source:
+
+  * [Customizing Go Binaries with Build Tags (digitalocean.com)](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags)
+
+In your source code put this as the **first** line:
+
+```go
+// +build tag_name
+```
+
+Then build with:
+
+```bash
+go build -tags tag_name
+```
