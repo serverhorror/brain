@@ -2,13 +2,18 @@
 id: 1ci4swjqclg8o3om6niefpj
 title: 'Knowledge Base [KB]'
 desc: ''
-updated: 1705161297362
+updated: 1705161391051
 created: 1665486252544
 tags:
   - kb
 ---
 
 ## Random notes that are not yet sorted
+
+### Note Taking
+
+* Alternative to Dendron: [Foam (foambubble.github.io)](https://foambubble.github.io/foam)
+  * https://foambubble.github.io/foam/user/getting-started/recommended-extensions
 
 ### instruqt
 
