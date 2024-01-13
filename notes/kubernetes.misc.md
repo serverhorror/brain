@@ -2,8 +2,11 @@
 id: k4pbf2re1mpbsqmr902ndej
 title: Misc
 desc: ''
-updated: 1665438303950
+updated: 1705152485008
 created: 1665438174390
+tags:
+  - k8s
+  - kubernetes
 ---
 
 #### *Alternative* — Windows Hyper-V
