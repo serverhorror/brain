@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1705161012071
+updated: 1705161071567
 created: 1664020967164
 tags:
   - kb
@@ -71,13 +71,13 @@ Source:
 > 
 > List all of the modules that are dependencies of your current module, along with the latest version available for each:
 > 
-> ```shell session
+> ```ShellSession
 > $ go list -m -u all
 > ```
 >
 > Display the latest version available for a specific module:
 > 
-> ```shell session
+> ```ShellSession
 > $ go list -m -u example.com/theirmodule
 > ```
 >
