@@ -2,8 +2,15 @@
 id: nxlvjm6hui0yaltptr19hok
 title: Windows Alt Tab
 desc: ''
-updated: 1703770452905
+updated: 1705151672144
 created: 1703770067787
+tags:
+    - windows
+    - registry
+    - tweak
+    - keyboard
+    - shortcut
+    - hotkey
 ---
 
 ## Get the old Alt-Tab dialog back
