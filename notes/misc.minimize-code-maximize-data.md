@@ -2,7 +2,7 @@
 id: zw8jd9fp6e6xeereqa0d02i
 title: Minimize Code Maximize Dat
 desc: ''
-updated: 1705153171024
+updated: 1705153223473
 created: 1705153001992
 ---
 
@@ -62,8 +62,7 @@ created: 1705153001992
 > 
 > So we can now draw the conclusion that the "minimize code, maximize data" has very direct consequences for the user experience, especially those very important users who sign the checks.
 > 
-> The Impact Upon Your Code
-> -------------------------
+>> The Impact Upon Your Code
 > 
 > A code grinder who is not trying to minimize code usually ends up with very complicated programs. This is true even of veteran and expert programmers who supposedly know better. They set out with an idea to simplify things and then end up writing complex heavily inter-dependent class libraries. I contend that this happens because they don't know that they are supposed to minimize code by maximizing data.
 > 
@@ -73,8 +72,7 @@ created: 1705153001992
 > 
 > The problem becomes more exaggerated as time goes on. As programs mature, their original simplicity is enhanced to handle more sophisticated edge cases and exceptions. As this process continues, many of these sophisticated edge cases and exceptions will be mutually exclusive or will interact in subtle ways. When this happens the code-centric program becomes increasingly difficult to understand and keep correct, as the layering of conditionals and branches and interdependencies makes it harder and harder to eliminate unwanted side effects. The data-centric solution on the other hand, while still becoming more difficult, is reduced to simply making sure that the tables provide the correct options for the code, and the code remains a matter of scanning the rules, picking precedence, and executing them.
 > 
-> The Impact on Debugging
-> -----------------------
+> ## The Impact on Debugging
 > 
 > It is much easier to debug data than code, especially when a simple operation has been matured to handle a collection of subtle edge cases and exceptions that may interact with each other.
 > 
@@ -84,22 +82,19 @@ created: 1705153001992
 > 
 > This debug-the-data approach can have a huge impact on boosting the customer's confidence and control. If he can directly view this log he has a perfect black-and-white explanation of how the process ran. If he does not like it he can change the rules. If you let your program run in "planning only" mode, where it generates these logs without making the changes, then your customer can play what-if and you will find you have truly made a new friend!
 > 
-> Meta-Data and the Data Dictionary
-> ---------------------------------
+> ## Meta-Data and the Data Dictionary
 > 
 > This week's essay leads naturally to the matter of meta-data and data dictionaries and how they can dramatically reduce the amount of code needed for routine table maintenance tasks. However, that is a large topic and must be reserved for one or more future essays.
 > 
 > When we get to the topic of data dictionaries, we will be looking at how a data dictionary can give you true zero-code generated table maintenance forms, among other things.
 > 
-> Conclusion
-> ----------
+> ## Conclusion
 > 
 > The motto "Minimize Code, Maximize Data" is not well known in popular discussions today, which I contend is a natural consequence of our basic personalities as programmers. Coding is what we do and we tend to think of solving problems as an exercise in code and more code.
 > 
 > Nevertheless, we have seen this week in a specific example (which could be repeated many times over) that the code-centric versus data-centric decision impacts everybody. The rule "Minimize Code, Maximize Data" has positive impacts and the coding process, the debugging process, the maintenance process, and the user experience. Since that covers all parties concerned with software development, it is safe to conclude that this is a crucial design concept.
 > 
-> Related Essays
-> --------------
+> ## Related Essays
 > 
 > This blog has two tables of contents, the [Topical Table of Contents](https://database-programmer.blogspot.com/2008/09/comprehensive-table-of-contents.html) and the list of [Database Skills](https://database-programmer.blogspot.com/2010/11/database-skills.html).
 > 
