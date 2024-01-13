@@ -2,7 +2,7 @@
 id: kj6geujv636rrjjczrnyuy3
 title: Programming Sucks
 desc: ''
-updated: 1705153641259
+updated: 1705153709900
 created: 1705153544889
 ---
 
@@ -72,7 +72,7 @@ created: 1705153544889
 > 
 > “Is that called arrayReverse?”
 > 
-> “s/camel/\_/”
+> “`s/camel/\_/`”
 > 
 > “Cool thanks.”
 > 
@@ -83,12 +83,14 @@ created: 1705153544889
 > The destructive impact on the brain is demonstrated by the programming languages people write. This is a program:
 > 
 >     
->     #include <iostream>
->     
->     int main( int argc, char** argv ) {
->         std::cout << "Hello World!" << std::endl;
->         return 0;
->     }
+> ```c++
+> #include <iostream>
+> 
+> int main( int argc, char** argv ) {
+>     std::cout << "Hello World!" << std::endl;
+>     return 0;
+> }
+> ```
 >     
 > 
 > That program does exactly the same thing as this program:
