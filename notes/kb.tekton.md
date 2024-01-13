@@ -2,7 +2,7 @@
 id: dtu8nhqsrt7du8ypmecrhv3
 title: Tekton
 desc: ''
-updated: 1687161042914
+updated: 1705152668469
 created: 1665520574575
 tags:
   - kb
@@ -11,6 +11,7 @@ tags:
   - ci
   - cicd
   - kb
+  - kubernetes
 ---
 
 * https://tekton.dev/

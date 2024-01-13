@@ -2,7 +2,7 @@
 id: p7s9mn93r5488it8zuhjjna
 title: ArgoCD
 desc: ''
-updated: 1687160936729
+updated: 1705152689708
 created: 1687160644786
 tags:
   - argocd
@@ -11,6 +11,7 @@ tags:
   - cicd
   - kb
   - tool
+  - kubernetes
 ---
 
 * https://argoproj.github.io/
