@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1705160632677
+updated: 1705160750650
 created: 1664020967164
 tags:
   - kb
@@ -55,7 +55,7 @@ tags:
   go generate -tags tools
   ```
 
-![[kb.go.build-tags#^begin]]
+![[kb.go.build-tags]]
 
 ## gRPC
 

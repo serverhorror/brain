@@ -1,14 +1,12 @@
 ---
 id: rw3b58bt8xjl63a8cbcaujz
-title: Build Tags
+title: Customizing Go Binaries with Build Tags
 desc: ''
-updated: 1705160441396
+updated: 1705160770310
 created: 1705160430666
 tags:
   - go
 ---
-
-# Customizing Go Binaries with Build Tags
 
 Source:
 
@@ -22,7 +20,7 @@ In your source code put this as the **first** line:
 or (to include):
 
 ```go
-//go:build tools
+//go:build tag_name
 ```
 
 
