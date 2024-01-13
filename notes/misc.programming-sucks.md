@@ -2,7 +2,7 @@
 id: kj6geujv636rrjjczrnyuy3
 title: Programming Sucks
 desc: ''
-updated: 1705153582334
+updated: 1705153641259
 created: 1705153544889
 ---
 
@@ -14,7 +14,7 @@ created: 1705153544889
 > 
 > Composed on the 27th of April in the year 2014, at 12:52 PM. It was Sunday.
 > 
-> Every friend I have with a job that involves picking up something heavier than a laptop more than twice a week eventually finds a way to slip something like this into conversation: “Bro,[1](#footnote1)[\[1\]](#fp1) you don’t work hard. I just worked a 4700-hour week digging a tunnel under Mordor with a screwdriver.”
+> Every friend I have with a job that involves picking up something heavier than a laptop more than twice a week eventually finds a way to slip something like this into conversation: “Bro, you don’t work hard. I just worked a 4700-hour week digging a tunnel under Mordor with a screwdriver.”
 > 
 > They have a point. Mordor sucks, and it’s certainly more physically taxing to dig a tunnel than poke at a keyboard unless you’re an ant. But, for the sake of the argument, can we agree that stress and insanity are bad things? Awesome. Welcome to programming.
 > 
