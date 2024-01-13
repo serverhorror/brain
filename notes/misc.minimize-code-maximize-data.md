@@ -1,13 +1,13 @@
 ---
 id: zw8jd9fp6e6xeereqa0d02i
-title: Minimize Code Maximize Dat
+title: Minimize Code Maximize Data (database-programmer.blogspot.com)
 desc: ''
-updated: 1705153223473
+updated: 1705153321511
 created: 1705153001992
 ---
 
 * Source:
-  * [Minimize Code, Maximize Data](https://database-programmer.blogspot.com/2008/05/minimize-code-maximize-data.html)
+  * [Minimize Code, Maximize Data (database-programmer.blogspot.com)](https://database-programmer.blogspot.com/2008/05/minimize-code-maximize-data.html)
 
 > Sunday, May 4, 2008
 > 
