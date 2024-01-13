@@ -2,7 +2,7 @@
 id: 07utzm8jsq67mo72bnawgxy
 title: Camtasia
 desc: ''
-updated: 1705151853198
+updated: 1705154350954
 created: 1684700746949
 tags:
   - windows
@@ -15,3 +15,5 @@ tags:
   - recording
   - recording_software
 ---
+
+Video editor and screen capture software.
