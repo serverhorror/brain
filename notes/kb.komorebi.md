@@ -2,12 +2,12 @@
 id: 5obxgyl86l00f6do6825khj
 title: Komorebi
 desc: ''
-updated: 1703419648975
+updated: 1705151762986
 created: 1703419472373
 tags:
-    - setup
-    - windows
-    - window_manager
+  - setup
+  - windows
+  - window_manager
 ---
 
 Source: https://github.com/LGUG2Z/komorebi
