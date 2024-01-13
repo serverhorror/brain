@@ -2,9 +2,10 @@
 id: 5obxgyl86l00f6do6825khj
 title: Komorebi
 desc: ''
-updated: 1705151762986
+updated: 1705152373094
 created: 1703419472373
 tags:
+  - kb
   - setup
   - windows
   - window_manager
