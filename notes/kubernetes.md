@@ -2,7 +2,7 @@
 id: sgefrbe3a1dujz9n4qk7nij
 title: Kubernetes
 desc: ''
-updated: 1705154688244
+updated: 1705154778893
 created: 1665438043220
 ---
 
@@ -57,7 +57,9 @@ graph LR
     Have a nice day! 👋
     ```
 
-1. xxx
+1. standard `kubectl` commands
+
+    ```text
 
     ```text
     kubectl cluster-info --context kind-kind
@@ -72,7 +74,7 @@ graph LR
     To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
     ```
 
-1. xxx
+    And taking a look at the context
 
     ```text
     kubectl config current-context
@@ -86,7 +88,9 @@ graph LR
 
 ## Create our first resource
 
-1. asdf
+1. Running things directly
+
+   !!WARN: This is not the recommended way to run things in Kubernetes!!
 
     ```text
     kubectl run --image gcr.io/google-containers/busybox mypod
@@ -98,7 +102,7 @@ graph LR
     pod/mypod created
     ```
 
-2. asdf
+2. Inspect the pod
 
     ```text
     kubectl get pod
@@ -111,7 +115,7 @@ graph LR
     mypod   0/1     CrashLoopBackOff   1 (12s ago)   16s
     ```
 
-3. asd
+3. Look at "all" the things
 
     ```text
     kubectl get all
