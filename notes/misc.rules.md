@@ -2,7 +2,7 @@
 id: 6012myohcrm43359c2d6mws
 title: Rules ...
 desc: ''
-updated: 1684700824157
+updated: 1705152570883
 created: 1670681771719
 ---
 
@@ -15,7 +15,7 @@ created: 1670681771719
 > * The only authoritative source for the actual state of the system is the
 >   system.
 > * The entire system must be deployable using source media and text files.
-> 
+
 > ## ... on Buying Software
 > 
 > * Keep the components in the infrastructure simple so it will be better
@@ -29,7 +29,7 @@ created: 1670681771719
 > * "Administered" does not mean saw it in a rigged demo, online or otherwise.
 > * If you must deploy the product, hire someone who has implemented it before
 >   to do so.
-> 
+
 > ## ... on Automation
 > 
 > * Do not author any code you would not buy.
@@ -46,7 +46,7 @@ created: 1670681771719
 >   applications other than the product itself.
 > * Writing hacks around the deficiencies in a product should be less work than
 >   writing the product's functionality.
-> 
+
 > ## ... in general
 > 
 > * Keep the disparity in your architecture to an absolute minimum.
