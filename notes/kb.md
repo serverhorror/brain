@@ -2,7 +2,7 @@
 id: 1ci4swjqclg8o3om6niefpj
 title: 'Knowledge Base [KB]'
 desc: ''
-updated: 1705160182215
+updated: 1705160202192
 created: 1665486252544
 tags:
   - kb
@@ -26,7 +26,7 @@ The platform provides more server side functionality than e.g. [[kb.hackerrrank]
 
 #go
 
-In your source code put this as the first line:
+In your source code put this as the **first** line:
 
 ```go
 // +build tag_name
