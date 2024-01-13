@@ -2,15 +2,15 @@
 id: sgefrbe3a1dujz9n4qk7nij
 title: Kubernetes
 desc: ''
-updated: 1665438335125
+updated: 1705154688244
 created: 1665438043220
 ---
 
 ## Kubernetes I*n* Docker [KI*n*D]
 
 ```mermaid
-graph RL
-  image([image]) -->|creates|container
+graph LR
+  image([image]) --> |used by|container
   subgraph pod
     direction TB
     container
@@ -33,7 +33,7 @@ graph LR
 
 ## Create a Cluster and look around
 
-1. xxx
+1. Get started
 
     ```text
     kind create cluster
