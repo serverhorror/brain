@@ -2,7 +2,7 @@
 id: 1ci4swjqclg8o3om6niefpj
 title: 'Knowledge Base [KB]'
 desc: ''
-updated: 1705160298080
+updated: 1705161248871
 created: 1665486252544
 tags:
   - kb
@@ -22,4 +22,12 @@ The platform provides more server side functionality than e.g. [[kb.hackerrrank]
 * https://sadservers.com/
 * https://github.com/fduran/sadservers
 
+### Google AIPs
 
+* https://google.aip.dev/
+
+## Games
+
+### Dyson Sphere Program
+
+* https://factoriolab.github.io/list?s=dsp

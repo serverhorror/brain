@@ -2,7 +2,7 @@
 id: bc8gb1blxcy1kg2thjhh67q
 title: Go
 desc: ''
-updated: 1705161071567
+updated: 1705161174449
 created: 1664020967164
 tags:
   - kb
@@ -56,6 +56,39 @@ tags:
   ```
 
 ![[kb.go.build-tags]]
+
+## Getting a specific dependency version
+
+Source
+
+  * [Getting a specific dependency version (go.dev)](https://go.dev/doc/modules/managing-dependencies#getting_version)
+
+> You can get a specific version of a dependency module by specifying its version in the go get command. The command updates the require directive in your go.mod file (though you can also update that manually).
+> 
+> You might want to do this if:
+> 
+> You want to get a specific pre-release version of a module to try out.
+> You’ve discovered that the version you’re currently requiring isn’t working for you, so you want to get a version you know you can rely on.
+> You want to upgrade or downgrade a module you’re already requiring.
+> Here are examples for using the go get command:
+> 
+> To get a specific numbered version, append the module path with an @ sign followed by the version you want:
+> 
+> ```ShellSession
+> $ go get example.com/theirmodule@v1.3.4
+> ```
+>
+> To get the latest version, append the module path with @latest:
+> 
+> ```ShellSession
+> $ go get example.com/theirmodule@latest
+> ```
+>
+> The following go.mod file require directive example (see the go.mod reference for more) illustrates how to require a specific version number:
+> 
+> ```
+> require example.com/theirmodule v1.3.4
+> ```
 
 ## Discovering available updates
 
