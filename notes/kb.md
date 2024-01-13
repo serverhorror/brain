@@ -2,7 +2,7 @@
 id: 1ci4swjqclg8o3om6niefpj
 title: 'Knowledge Base [KB]'
 desc: ''
-updated: 1705161248871
+updated: 1705161297362
 created: 1665486252544
 tags:
   - kb
@@ -28,6 +28,6 @@ The platform provides more server side functionality than e.g. [[kb.hackerrrank]
 
 ## Games
 
-### Dyson Sphere Program
+### Dyson Sphere Program (DSP)
 
-* https://factoriolab.github.io/list?s=dsp
+* https://factoriolab.github.io/dsp
