@@ -1,8 +1,8 @@
 ---
 id: zw8jd9fp6e6xeereqa0d02i
-title: Minimize Code Maximize Data (database-programmer.blogspot.com)
+title: Minimize Code, Maximize Data (database-programmer.blogspot.com)
 desc: ''
-updated: 1705153321511
+updated: 1705153855923
 created: 1705153001992
 ---
 

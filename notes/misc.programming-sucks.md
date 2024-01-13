@@ -2,7 +2,7 @@
 id: kj6geujv636rrjjczrnyuy3
 title: Programming Sucks
 desc: ''
-updated: 1705153709900
+updated: 1705153807387
 created: 1705153544889
 ---
 
@@ -96,60 +96,61 @@ created: 1705153544889
 > That program does exactly the same thing as this program:
 > 
 >     
->     `r```````````.H.e.l.l.o. .w.o.r.l.di
+> ```
+> `r```````````.H.e.l.l.o. .w.o.r.l.di
+> ```
 >     
 > 
 > And this program:
 > 
 >     
->     >+++++++++[<++++++++>-]<.>+++++++[<++++>-]<+.+++++++..+++.[-]
->     >++++++++[<++++>-] <.>+++++++++++[<++++++++>-]<-.--------.+++
->     .------.--------.[-]>++++++++[<++++>- ]<+.[-]++++++++++.
+> ```
+> >+++++++++[<++++++++>-]<.>+++++++[<++++>-]<+.+++++++..+++.[-]
+> >++++++++[<++++>-] <.>+++++++++++[<++++++++>-]<-.--------.+++
+> .------.--------.[-]>++++++++[<++++>- ]<+.[-]++++++++++.
+> ```
 >     
 > 
 > And this one:
 > 
 >     
->     Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook.
->     Ook! Ook. Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook?
->     Ook! Ook! Ook? Ook! Ook? Ook. Ook. Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook! Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook. Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook.
->     Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook.
->     Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook.
->     Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook.
->     Ook? Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook! Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook.
->     Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook!
->     Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook. Ook! Ook. Ook! Ook? Ook! Ook! Ook? Ook!
->     Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
->     Ook. Ook. Ook. Ook. Ook! Ook.
->     
+> ```
+>  Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook.
+>  Ook! Ook. Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook?
+>  Ook! Ook! Ook? Ook! Ook? Ook. Ook. Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook. Ook! Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook. Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook.
+>  Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook.
+>  Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook.
+>  Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook? Ook! Ook! Ook? Ook! Ook? Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook.
+>  Ook? Ook. Ook? Ook. Ook? Ook. Ook? Ook. Ook! Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook! Ook. Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook.
+>  Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook! Ook!
+>  Ook! Ook. Ook. Ook? Ook. Ook? Ook. Ook. Ook! Ook. Ook! Ook? Ook! Ook! Ook? Ook!
+>  Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
+>  Ook. Ook. Ook. Ook. Ook! Ook.
+> ```
 > 
 > And once somebody wrote a programming language that let somebody else write this:
-> 
 >     
->     #:: ::-| ::-| .-. :||-:: 0-| .-| ::||-| .:|-. :||
->     open(Q,$0);while(){if(/^#(.*)$/){for(split('-',$1)){$q=0;for(split){s/|
->     /:.:/xg;s/:/../g;$Q=$_?length:$_;$q+=$q?$Q:$Q*20;}print chr($q);}}}print"n";
->     #.: ::||-| .||-| :|||-| ::||-| ||-:: :|||-| .:|
+> ```perl
+>  #:: ::-| ::-| .-. :||-:: 0-| .-| ::||-| .:|-. :||
+>  open(Q,$0);while(){if(/^#(.*)$/){for(split('-',$1)){$q=0;for(split){s/|
+>  /:.:/xg;s/:/../g;$Q=$_?length:$_;$q+=$q?$Q:$Q*20;}print chr($q);}}}print"n";
+>  #.: ::||-| .||-| :|||-| ::||-| ||-:: :|||-| .:|
+> ```
 >     
 > 
 > According to the author, that program is "two lines of code that parse two lines of embedded comments in the code to read the Mayan numbers representing the individual ASCII characters that make up the magazine title, rendered in 90-degree rotated ASCII art."
 > 
 > That program won a contest, because of course it did. Do you want to live in a world like this? No. This is a world of where you can smoke a pack a day and nobody even questions it. "Of course he smokes a pack a day, who wouldn't?" Eventually every programmer wakes up and before they're fully conscious they see their whole world and every relationship in it as chunks of code, and they trade stories about it as if sleepiness triggering acid trips is a normal thing that happens to people. This is a world where people eschew sex to write a programming language for orangutans. All programmers are forcing their brains to do things brains were never meant to do in a situation they can never make better, ten to fifteen hours a day, five to seven days a week, and every one of them is slowly going mad.
 > 
->   
-> 
 > `</rant>`
 > 
->   
-> 
 > So no, I’m not required to be able to lift objects weighing up to fifty pounds. I traded that for the opportunity to trim Satan’s pubic hair while he dines out of my open skull so a few bits of the internet will continue to work for a few more days.
-> 
