@@ -2,7 +2,7 @@
 id: nxlvjm6hui0yaltptr19hok
 title: Windows Customizations
 desc: ''
-updated: 1705271825887
+updated: 1705271872054
 created: 1703770067787
 tags:
   - windows
@@ -30,9 +30,14 @@ Source:
 ## Chane the display resolution for a Hyper-V VM
 
 ```powershell
-set-vmvideo -vmname FedoraSway39 -horizontalresolution:1920  -verticalresolution:1080 -resolutiontype single
+set-vmvideo -vmname <your_vm_name> -horizontalresolution:1920  -verticalresolution:1080 -resolutiontype single
 ```
 
+* This _should_ enhance the graphics performance
+
+  ```powershell
+  Set-VM -VMName <your_vm_name>  -EnhancedSessionTransportType HvSocket
+  ```
 
 
 ## Windows Alt-Tab
