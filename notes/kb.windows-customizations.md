@@ -1,8 +1,8 @@
 ---
 id: nxlvjm6hui0yaltptr19hok
-title: Windows Alt Tab
+title: Windows Customizations
 desc: ''
-updated: 1705152431752
+updated: 1705270957285
 created: 1703770067787
 tags:
   - windows
@@ -13,6 +13,8 @@ tags:
   - shortcut
   - hotkey
 ---
+
+# Windows Alt-Tab
 
 ## Get the old Alt-Tab dialog back
 
