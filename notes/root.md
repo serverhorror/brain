@@ -2,7 +2,7 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1705235135773
+updated: 1705235367311
 created: 1665428988423
 ---
 
@@ -15,16 +15,6 @@ created: 1665428988423
 ## Knowledge Base
 
 * [[kb]]
-
-## Lookup
-
-This section contains useful links to related resources.
-
-* [Getting Started Guide](https://link.dendron.so/6b25)
-* [Discord](https://link.dendron.so/6b23)
-* [Home Page](https://wiki.dendron.so/)
-* [Github](https://link.dendron.so/6b24)
-* [Developer Docs](https://docs.dendron.so/)
 
 ## Random notes that are not yet sorted
 
@@ -62,3 +52,13 @@ The platform provides more server side functionality than e.g. [[kb.hackerrrank]
 ### Dyson Sphere Program (DSP)
 
 * https://factoriolab.github.io/dsp
+
+## Lookup
+
+This section contains useful links to related resources.
+
+* [Getting Started Guide](https://link.dendron.so/6b25)
+* [Discord](https://link.dendron.so/6b23)
+* [Home Page](https://wiki.dendron.so/)
+* [Github](https://link.dendron.so/6b24)
+* [Developer Docs](https://docs.dendron.so/)
