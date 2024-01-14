@@ -2,7 +2,7 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1705235367311
+updated: 1705235413003
 created: 1665428988423
 ---
 
@@ -24,7 +24,7 @@ Source:
 
   * https://wyag.thb.lt/
 
-    Uses #Python to implement basic Git functionality.
+    Uses #Python to implement basic [[Git|tags.git]] functionality.
 
 ### Note Taking
 
