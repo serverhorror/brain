@@ -2,9 +2,13 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1705235413003
+updated: 1705237097618
 created: 1665428988423
 ---
+
+This just exists to quickly go the the published page:
+
+* http://serverhorror.github.io/brain
 
 ## Interesting Texts
 
