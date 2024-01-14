@@ -2,7 +2,7 @@
 id: nxlvjm6hui0yaltptr19hok
 title: Windows Customizations
 desc: ''
-updated: 1705270957285
+updated: 1705271048381
 created: 1703770067787
 tags:
   - windows
@@ -14,9 +14,17 @@ tags:
   - hotkey
 ---
 
-# Windows Alt-Tab
+## Disable `Win+L`
 
-## Get the old Alt-Tab dialog back
+Source:
+
+* [How can I disable  the function (window key + L ) used to lock the window (answers.microsoft.com)](https://answers.microsoft.com/en-us/windows/forum/all/how-i-can-disable-the-function-window-key-l-used/fdb6696e-eb2f-4115-a79d-771b7e0bb496)
+
+
+
+## Windows Alt-Tab
+
+### Get the old Alt-Tab dialog back
 
 1. Open Registry Editor.
 2. Go to `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer`.
