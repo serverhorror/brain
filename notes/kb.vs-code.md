@@ -2,7 +2,7 @@
 id: iyfe99prifkm2956srumpqk
 title: VS Code
 desc: ''
-updated: 1684701117865
+updated: 1705235239213
 created: 1663335829621
 tags:
   - code
@@ -35,3 +35,8 @@ Remove-Item -Recurse -Force $env:USERPROFILE\.vscode\
 Remove-Item -Recurse -Force $env:APPDATA\Code
 Remove-Item -Recurse -Force $env:USERPROFILE\.vscode
 ```
+
+## Extensions
+
+* [Git Worktree (Phil Stainer)](https://marketplace.visualstudio.com/items?itemName=PhilStainer.git-worktree)
+* [Git Worktree (Git Worktrees)](https://marketplace.visualstudio.com/items?itemName=GitWorktrees.git-worktrees)
