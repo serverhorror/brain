@@ -90,7 +90,7 @@ publishing:
         - root
     writeStubs: false
     assetsPrefix: /brain
-    siteUrl: https://serverhorror.github.io/brain
+    siteUrl: https://serverhorror.github.io
     siteRootDir: docs
     seo:
         title: Server!/Horror!
