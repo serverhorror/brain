@@ -2,7 +2,7 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1705235073119
+updated: 1705235135773
 created: 1665428988423
 ---
 
@@ -26,8 +26,15 @@ This section contains useful links to related resources.
 * [Github](https://link.dendron.so/6b24)
 * [Developer Docs](https://docs.dendron.so/)
 
-
 ## Random notes that are not yet sorted
+
+### Write yourself a Git!
+
+Source:
+
+  * https://wyag.thb.lt/
+
+    Uses #Python to implement basic Git functionality.
 
 ### Note Taking
 
