@@ -2,7 +2,7 @@
 id: nxlvjm6hui0yaltptr19hok
 title: Windows Customizations
 desc: ''
-updated: 1705271261697
+updated: 1705271825887
 created: 1703770067787
 tags:
   - windows
@@ -26,6 +26,12 @@ Source:
 * give it one of these values:
   * `1` Disable Lock Workstation
   * `0` Enable Lock Workstation
+
+## Chane the display resolution for a Hyper-V VM
+
+```powershell
+set-vmvideo -vmname FedoraSway39 -horizontalresolution:1920  -verticalresolution:1080 -resolutiontype single
+```
 
 
 
