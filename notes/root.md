@@ -2,7 +2,7 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1670685115518
+updated: 1705235073119
 created: 1665428988423
 ---
 
@@ -14,7 +14,7 @@ created: 1665428988423
 
 ## Knowledge Base
 
-![[kb]]
+* [[kb]]
 
 ## Lookup
 
@@ -25,3 +25,33 @@ This section contains useful links to related resources.
 * [Home Page](https://wiki.dendron.so/)
 * [Github](https://link.dendron.so/6b24)
 * [Developer Docs](https://docs.dendron.so/)
+
+
+## Random notes that are not yet sorted
+
+### Note Taking
+
+* Alternative to Dendron: [Foam (foambubble.github.io)](https://foambubble.github.io/foam)
+  * https://foambubble.github.io/foam/user/getting-started/recommended-extensions
+
+### instruqt
+
+* https://instruqt.com/
+
+Looks like it could be a good way to learn new things.
+The platform provides more server side functionality than e.g. [[kb.hackerrrank]] or [[kb.codewars]].
+
+### SadServers
+
+* https://sadservers.com/
+* https://github.com/fduran/sadservers
+
+### Google AIPs
+
+* https://google.aip.dev/
+
+## Games
+
+### Dyson Sphere Program (DSP)
+
+* https://factoriolab.github.io/dsp
