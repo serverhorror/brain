@@ -2,7 +2,7 @@
 id: nxlvjm6hui0yaltptr19hok
 title: Windows Customizations
 desc: ''
-updated: 1705271872054
+updated: 1705358857264
 created: 1703770067787
 tags:
   - windows
@@ -18,11 +18,14 @@ tags:
 
 Source:
 
-* [How can I disable  the function (window key + L ) used to lock the window (answers.microsoft.com)](https://answers.microsoft.com/en-us/windows/forum/all/how-i-can-disable-the-function-window-key-l-used/fdb6696e-eb2f-4115-a79d-771b7e0bb496)
+* [How can I disable  the function (window key + L )
+  used to lock the window
+  (answers.microsoft.com)](https://answers.microsoft.com/en-us/windows/forum/all/how-i-can-disable-the-function-window-key-l-used/fdb6696e-eb2f-4115-a79d-771b7e0bb496)
 
 `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System`
 
-* create a new DWORD 32-bit value named `DisableLockWorkstation` and
+* create a new DWORD 32-bit value
+  named `DisableLockWorkstation` and
 * give it one of these values:
   * `1` Disable Lock Workstation
   * `0` Enable Lock Workstation
