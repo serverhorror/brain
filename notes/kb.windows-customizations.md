@@ -2,7 +2,7 @@
 id: nxlvjm6hui0yaltptr19hok
 title: Windows Customizations
 desc: ''
-updated: 1705358857264
+updated: 1705358891860
 created: 1703770067787
 tags:
   - windows
@@ -25,7 +25,7 @@ Source:
 `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System`
 
 * create a new DWORD 32-bit value
-  named `DisableLockWorkstation` and
+  named `DisableLockWorkstation`
 * give it one of these values:
   * `1` Disable Lock Workstation
   * `0` Enable Lock Workstation
@@ -33,7 +33,10 @@ Source:
 ## Chane the display resolution for a Hyper-V VM
 
 ```powershell
-set-vmvideo -vmname <your_vm_name> -horizontalresolution:1920  -verticalresolution:1080 -resolutiontype single
+set-vmvideo -vmname <your_vm_name> `
+  -horizontalresolution:1920  `
+  -verticalresolution:1080 `
+  -resolutiontype single
 ```
 
 * This _should_ enhance the graphics performance
