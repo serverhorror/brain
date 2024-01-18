@@ -2,7 +2,7 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1705577163508
+updated: 1705577272255
 created: 1665428988423
 ---
 
@@ -87,8 +87,9 @@ jenkins.model.Jenkins.instance.computers.collect { c -> c.executors }.collectMan
 ```
 
 ```groovy
-Jenkins.instance.getItemByFullName("ekg-cd/enrique-pipeline-test-master").getBuildByNumber(32).finish(hudson.model.Result.ABORTED, new java.io.IOException("Aborting build"));
+Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildByNumber(69).finish(hudson.model.Result.ABORTED, new java.io.IOException("Aborting build"));
 ```
 
 ```groovy
+Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildByNumber(420).finish(hudson.model.Result.ABORTED, new java.io.IOException("Aborting build"));
 ```
