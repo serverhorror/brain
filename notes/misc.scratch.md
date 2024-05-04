@@ -2,17 +2,16 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1714816056308
+updated: 1714816211866
 created: 1714815914844
 ---
 
 ## Code Design
 
 > Functional Core, Imperative Shell
-* (https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
-* (https://www.youtube.com/watch?v=7Zlp9rKHGD4)
-* (https://www.youtube.com/watch?v=V1mQfXq1Y5Y)
-* (https://www.youtube.com/watch?v=P1vES9AgfC4)
+* ()
+* ([Robert C  Martin -  Functional Programming; What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4))
+* ([Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin](https://www.youtube.com/watch?v=P1vES9AgfC4))
 
 ## Install Visual Studio 2022 Build Tools
 
