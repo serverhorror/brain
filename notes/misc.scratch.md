@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1714816709061
+updated: 1714816897677
 created: 1714815914844
 ---
 
@@ -22,12 +22,12 @@ flowchart LR
 ```mermaid
 journey
     title Functional Core, Imperative Shell
-    section Side Effects
+    section Side Effects (Imperative Shell)
       I/O: 3: Me
       Validation: 3: Me
-    section Go home
+    section Pure (Functional Core)
       Business Logic: 4: Me
-    section Side Effects
+    section Side Effects (Imperative Shell)
       Validation: 3: Me
       I/O: 3: Me
 
