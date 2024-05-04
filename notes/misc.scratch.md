@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1714816366501
+updated: 1714816434977
 created: 1714815914844
 ---
 
@@ -15,6 +15,21 @@ created: 1714815914844
 
 
 ```mermaid
+flowchart LR
+  
+```
+
+```mermaid
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+
 ```
 
 ## Install Visual Studio 2022 Build Tools
