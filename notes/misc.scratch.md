@@ -2,9 +2,13 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1714815918907
+updated: 1714815987231
 created: 1714815914844
 ---
+
+## Code Design
+
+> 
 
 ## Install Visual Studio 2022 Build Tools
 
