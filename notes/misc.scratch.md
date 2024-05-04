@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1714816897677
+updated: 1714817931652
 created: 1714815914844
 ---
 
@@ -23,13 +23,13 @@ flowchart LR
 journey
     title Functional Core, Imperative Shell
     section Side Effects (Imperative Shell)
-      I/O: 3: Me
-      Validation: 3: Me
+      I/O: 3: Developer
+      Validation: 3: Developer
     section Pure (Functional Core)
-      Business Logic: 4: Me
+      Business Logic: 4: Developer
     section Side Effects (Imperative Shell)
-      Validation: 3: Me
-      I/O: 3: Me
+      Validation: 3: Developer
+      I/O: 3: Developer
 
 ```
 
