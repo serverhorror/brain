@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1714816434977
+updated: 1714816530731
 created: 1714815914844
 ---
 
@@ -16,19 +16,20 @@ created: 1714815914844
 
 ```mermaid
 flowchart LR
-  
+  id
 ```
 
 ```mermaid
 journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
+    title Functional Core, Imperative Shell
+    section Side Effects
+      I/O: 3: Me
+      Validation: 3: Me
     section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
+      Business Logic: 3: Me
+    section Side Effects
+      Validation: 3: Me
+      I/O: 3: Me
 
 ```
 
