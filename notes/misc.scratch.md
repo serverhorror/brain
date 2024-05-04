@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1714816530731
+updated: 1714816709061
 created: 1714815914844
 ---
 
@@ -26,7 +26,7 @@ journey
       I/O: 3: Me
       Validation: 3: Me
     section Go home
-      Business Logic: 3: Me
+      Business Logic: 4: Me
     section Side Effects
       Validation: 3: Me
       I/O: 3: Me
