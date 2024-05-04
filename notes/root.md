@@ -2,7 +2,7 @@
 id: uly1rz3619dy10urzw1kpnv
 title: Server!/Horror!
 desc: ''
-updated: 1705577272255
+updated: 1714815942961
 created: 1665428988423
 ---
 
@@ -21,6 +21,8 @@ This just exists to quickly go the the published page:
 * [[kb]]
 
 ## Random notes that are not yet sorted
+
+* [[misc.scratch]]
 
 ### Write yourself a Git!
 
@@ -66,30 +68,3 @@ This section contains useful links to related resources.
 * [Home Page](https://wiki.dendron.so/)
 * [Github](https://link.dendron.so/6b24)
 * [Developer Docs](https://docs.dendron.so/)
-
-## Install Visual Studio 2022 Build Tools
-
-```powershell
-inget install -e `
-  --id Microsoft.VisualStudio.2022.BuildTools `
-  --override "--wait --quiet --add ProductLang En-us --add Microsoft.VisualStudio.Workload.NativeDesktop --includeRecommended"
-```
-
-## Jenkins Snippets
-
-
-```groovy
-// This was the only script that allowed me to see the zombie job
-jenkins.model.Jenkins.instance.computers.collect { c -> c.executors }.collectMany { it.findAll { it.isBusy () } }.each { it -> println(it.getName()); }
-
-//Try to stop it but didnt work
-jenkins.model.Jenkins.instance.computers.collect { c -> c.executors }.collectMany { it.findAll { it.isBusy () } }.each { it.stop () }
-```
-
-```groovy
-Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildByNumber(69).finish(hudson.model.Result.ABORTED, new java.io.IOException("Aborting build"));
-```
-
-```groovy
-Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildByNumber(420).finish(hudson.model.Result.ABORTED, new java.io.IOException("Aborting build"));
-```
