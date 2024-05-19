@@ -2,7 +2,7 @@
 id: rw3b58bt8xjl63a8cbcaujz
 title: Customizing Go Binaries with Build Tags
 desc: ''
-updated: 1705160770310
+updated: 1716159224622
 created: 1705160430666
 tags:
   - go
@@ -21,6 +21,12 @@ or (to include):
 
 ```go
 //go:build tag_name
+```
+
+**NOTE** The experiments are available via build tags, so you can build with:
+
+```go
+go build -tags tag_name
 ```
 
 
