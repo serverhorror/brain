@@ -2,7 +2,7 @@
 id: rw3b58bt8xjl63a8cbcaujz
 title: Customizing Go Binaries with Build Tags
 desc: ''
-updated: 1716159280881
+updated: 1716159415807
 created: 1705160430666
 tags:
   - go
@@ -42,6 +42,7 @@ go build -tags tag_name
 
 as of Go 1.22 the `rangefunc` experiment is available
 
+* see: [go/src/interna/goexperiment/flags.go#L111](https://github.com/golang/go/blob/master/src/internal/goexperiment/flags.go#L111)
 
 ```go
 //go:build goexperiment.rangefunc
