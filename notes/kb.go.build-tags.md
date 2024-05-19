@@ -2,7 +2,7 @@
 id: rw3b58bt8xjl63a8cbcaujz
 title: Customizing Go Binaries with Build Tags
 desc: ''
-updated: 1716159224622
+updated: 1716159280881
 created: 1705160430666
 tags:
   - go
@@ -23,12 +23,6 @@ or (to include):
 //go:build tag_name
 ```
 
-**NOTE** The experiments are available via build tags, so you can build with:
-
-```go
-go build -tags tag_name
-```
-
 
 alternatively (to exclude):
 
@@ -40,4 +34,21 @@ Then build with:
 
 ```bash
 go build -tags tag_name
+```
+
+## Go experiments
+
+**NOTE** The experiments are available via build tags, so you can build with:
+
+as of Go 1.22 the `rangefunc` experiment is available
+
+
+```go
+//go:build goexperiment.rangefunc
+
+package example
+```
+
+```bash
+GOEXPERIMENT=rangefunc go build
 ```
