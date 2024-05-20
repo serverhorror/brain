@@ -2,7 +2,7 @@
 id: wfa0ezuoa81eppr89q46yac
 title: NeoVIM
 desc: ''
-updated: 1716160391044
+updated: 1716160972880
 created: 1682755423382
 tags:
   - kb
@@ -16,9 +16,9 @@ tags:
 ## Using the system clipboard
 
 ```vim
-"+y -- yank to system clipboard
+"*y -- yank to system clipboard
 "+p -- paste from system clipboard
-``` 
+```
 
 ## NeoVIM on Windows
 
