@@ -2,19 +2,20 @@
 id: d77ssvnk3rn6mknq6r3ztcd
 title: Opendevstack with Sergej Dechant
 desc: ''
-updated: 1716890953049
+updated: 1716893855476
 created: 1716884333162
 traitIds:
   - meetingNote
 ---
-_Edit the [[templates.meet]] note to change this template generated for Dendron Meeting Notes._
 
 ## Attendees
 
 <!-- Meeting attendees. If you prefix users with an '@', you can then optionally click Ctrl+Enter to create a note for that user. -->
 
-- @john-doe
+- [[people.sergej-dechant]]
+
 ![alt text](meet.2024.05.28.opendevstack-with-sergej-dechant.excalidraw.svg)
+
 ## Goals
 
 <!-- Main objectives of the meeting -->
