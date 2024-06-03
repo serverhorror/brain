@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1717447956069
+updated: 1717448353726
 created: 1714815914844
 ---
 
@@ -34,6 +34,8 @@ journey
 ```
 
 ## Install Visual Studio 2022 Build Tools
+
+* [Visual Studio workload and component IDs](https://learn.microsoft.com/en-us/visualstudio/install/workload-and-component-ids?view=vs-2022)
 
 ```powershell
 winget install -e `
