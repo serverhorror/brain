@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1714817931652
+updated: 1717447956069
 created: 1714815914844
 ---
 
@@ -36,7 +36,7 @@ journey
 ## Install Visual Studio 2022 Build Tools
 
 ```powershell
-inget install -e `
+winget install -e `
   --id Microsoft.VisualStudio.2022.BuildTools `
   --override "--wait --quiet --add ProductLang En-us --add Microsoft.VisualStudio.Workload.NativeDesktop --includeRecommended"
 ```
