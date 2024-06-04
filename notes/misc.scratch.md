@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1717448526109
+updated: 1717486564615
 created: 1714815914844
 ---
 
@@ -12,12 +12,6 @@ created: 1714815914844
 * [Functional Core, Imperative Shell (destroyallsoftware.com)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 * [Robert C  Martin -  Functional Programming; What? Why? When? (youtube.com)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 * [Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com)](https://www.youtube.com/watch?v=P1vES9AgfC4)
-
-
-```mermaid
-flowchart LR
-  id
-```
 
 ```mermaid
 journey
@@ -30,7 +24,6 @@ journey
     section Side Effects (Imperative Shell)
       Validation: 3: Developer
       I/O: 3: Developer
-
 ```
 
 ## Install Visual Studio 2022 Build Tools
