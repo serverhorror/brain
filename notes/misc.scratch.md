@@ -2,7 +2,7 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1717486564615
+updated: 1717588029527
 created: 1714815914844
 ---
 
@@ -39,7 +39,6 @@ winget install -e `
 ```
 
 ## Jenkins Snippets
-
 
 ```groovy
 // This was the only script that allowed me to see the zombie job
