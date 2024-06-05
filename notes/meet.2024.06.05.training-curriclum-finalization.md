@@ -2,7 +2,7 @@
 id: mwzrn4j3h8qe5x2h3t17rkj
 title: Training Curriclum Finalization
 desc: ''
-updated: 1717588535388
+updated: 1717588579822
 created: 1717588535388
 traitIds:
   - meetingNote
@@ -18,6 +18,12 @@ traitIds:
 <!-- Main objectives of the meeting -->
 
 ## Agenda
+
+
+```bash
+# allow port 80 and 443 to reach the ec instance in security $SG
+aws ec2 authorize-security-group-ingress --group-id $SG --protocol tcp --port 80 --cidr
+```
 
 <!-- Agenda to be covered in the meeting -->
 
