@@ -2,13 +2,28 @@
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
 desc: ''
-updated: 1717588029527
+updated: 1717841279820
 created: 1714815914844
 ---
+
+## `pandoc`
+
+Convert a `docx` file to `md`:
+
+```powershell
+&pandoc `
+ --verbose `
+ --from docx `
+ --to markdown `
+ --default-image-extension=png `
+ --extract-media=images `
+ 'document.docx' -o document.md
+```
 
 ## Code Design
 
 > Functional Core, Imperative Shell
+
 * [Functional Core, Imperative Shell (destroyallsoftware.com)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 * [Robert C  Martin -  Functional Programming; What? Why? When? (youtube.com)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 * [Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com)](https://www.youtube.com/watch?v=P1vES9AgfC4)
