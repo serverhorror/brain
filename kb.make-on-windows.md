@@ -1,9 +1,5 @@
 ---
-id: nfdvu2ag1lcng764e8gvf8q
 title: make on Windows
-desc: ""
-updated: 1682726744935
-created: 1664021233208
 tags:
   - kb
   - make

@@ -29,7 +29,7 @@ winget install -e --id Neovim.Neovim
 
 - let NeoVIM tell where it will look for the config
 
-```
+```vim
 :echo stdpath('config')
 ```
 

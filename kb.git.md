@@ -1,9 +1,5 @@
 ---
-id: x4pn71mwd404ce9lxmdfonf
 title: Git
-desc: ""
-updated: 1715967896323
-created: 1670682312698
 tags:
   - git
   - tools

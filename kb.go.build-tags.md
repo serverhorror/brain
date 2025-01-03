@@ -1,28 +1,24 @@
 ---
-id: rw3b58bt8xjl63a8cbcaujz
 title: Customizing Go Binaries with Build Tags
-desc: ''
-updated: 1716159474870
-created: 1705160430666
 tags:
   - go
 ---
 
 Source:
 
-  * [Customizing Go Binaries with Build Tags (digitalocean.com)](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags)
+- [Customizing Go Binaries with Build Tags (digitalocean.com)](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags)
 
 In your source code put this as the **first** line:
 
 ```go
 // +build tag_name
 ```
+
 or (to include):
 
 ```go
 //go:build tag_name
 ```
-
 
 alternatively (to exclude):
 
@@ -42,8 +38,8 @@ go build -tags tag_name
 
 as of Go 1.22 the `rangefunc` experiment is available
 
-* see: [goexperiment package - internal/goexperiment - Go Packages](https://pkg.go.dev/internal/goexperiment#pkg-overview)
-  * see: [go/src/interna/goexperiment/flags.go#L111](https://github.com/golang/go/blob/master/src/internal/goexperiment/flags.go#L111)
+- see: [goexperiment package - internal/goexperiment - Go Packages](https://pkg.go.dev/internal/goexperiment#pkg-overview)
+  - see: [go/src/interna/goexperiment/flags.go#L111](https://github.com/golang/go/blob/master/src/internal/goexperiment/flags.go#L111)
 
 ```go
 //go:build goexperiment.rangefunc

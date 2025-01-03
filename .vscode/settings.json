@@ -22,7 +22,6 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "markdown.styles": [
-    ".vscode/custom-tag-style.css"
-  ]
+  "markdown.styles": [".vscode/custom-tag-style.css"],
+  "gitdoc.enabled": true
 }

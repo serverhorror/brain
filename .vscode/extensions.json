@@ -9,9 +9,6 @@
     "yzhang.markdown-all-in-one",
 
     // Prettier for auto formatting code
-    "esbenp.prettier-vscode",
-
-    // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter"
+    "esbenp.prettier-vscode"
   ]
 }

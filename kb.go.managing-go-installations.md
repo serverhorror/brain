@@ -1,14 +1,10 @@
 ---
-id: j3v4tam0s8xb5fesww63d4l
 title: Managing Go Installations
-desc: ''
-updated: 1716160285324
-created: 1716159866461
 tags:
   - go
 ---
 
-* [Managing Go installations - The Go Programming Language](https://go.dev/doc/manage-install)
+- [Managing Go installations - The Go Programming Language](https://go.dev/doc/manage-install)
 
 ## Install Go versions
 
@@ -26,7 +22,7 @@ Downloaded  96.7% (71384544 / 73785140 bytes) ...
 Downloaded 100.0% (73785140 / 73785140 bytes)
 Unpacking ...
 Success. You may now run 'go1.21.10'
-~> go1.21.10 env     
+~> go1.21.10 env
 set GO111MODULE=
 ...
 ```
