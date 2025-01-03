@@ -1,10 +1,7 @@
----
-id: uly1rz3619dy10urzw1kpnv
-title: Server!/Horror!
-desc: ""
-updated: 1714815942961
-created: 1665428988423
----
+# Server!/Horror
+
+- [[inbox]]
+- [[todo]]
 
 This just exists to quickly go the the published page:
 
