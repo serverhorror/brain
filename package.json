@@ -1,8 +1,0 @@
-{
-    "scripts": {
-        "dendron-cli": "dendron-cli"
-    },
-    "dependencies": {
-        "@dendronhq/dendron-cli": "^0.114.0"
-    }
-}
