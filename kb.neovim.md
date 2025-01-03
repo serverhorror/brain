@@ -1,15 +1,12 @@
 ---
 id: wfa0ezuoa81eppr89q46yac
 title: NeoVIM
-desc: ''
+desc: ""
 updated: 1716160972880
 created: 1682755423382
 tags:
   - kb
-  - tool
-  - vim
-  - nvim
-  - neovim
+  - tools
   - windows
 ---
 
@@ -30,7 +27,7 @@ winget install -e --id Neovim.Neovim
 
 ### Configure NeoVIM
 
-* let NeoVIM tell where it will look for the config
+- let NeoVIM tell where it will look for the config
 
 ```
 :echo stdpath('config')
@@ -39,6 +36,6 @@ winget install -e --id Neovim.Neovim
 Configuration files are in: `%LOCALAPPDATA%\nvim\init.vim`
 
 Data is in:
-  `%LOCALAPPDATA%\nvim-data\`
+`%LOCALAPPDATA%\nvim-data\`
 that means you clone e.g. `packer` to:
-  `git clone --depth 1 https://github.com/wbthomason/packer.nvim site/pack/packer/start/packer.nvim`
+`git clone --depth 1 https://github.com/wbthomason/packer.nvim site/pack/packer/start/packer.nvim`

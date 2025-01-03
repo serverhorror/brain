@@ -1,5 +1,30 @@
 # Todo
 
+## Inbox
+
 - [ ] Fix and link [[editor]]
+- [ ] Link tools
+  - [ ] [[kb.taskfile-dev]]
+  - [ ] [[kb.komorebi]]
+  - [ ] [[youtube-streaming-setup]]
+- [ ] Link Coding tools / frameworks
+  - [ ] [</>htmx](https://htmx.org/attributes/hx-trigger/)
+  - [ ] [[kb.go]] with [[kb.go.managing-go-installations]]
+- Reading / Articles
+  - [ ] [[misc.minimize-code-maximize-data]]
+  - [ ] [[misc.secure-systems]]
+  - [ ] [[misc.software-development-continuous-production]]
+  - [ ] [[misc.if-wasm-existed]]
+- [ ] Cloud: [[kb.gcp]]
 
 [editor]: editor.md "Editor"
+[kb.taskfile-dev]: kb.taskfile-dev.md "taskfile.dev"
+[kb.komorebi]: kb.komorebi.md "Komorebi"
+[kb.go]: kb.go.md "Go"
+[kb.go.managing-go-installations]: kb.go.managing-go-installations.md "Managing Go Installations"
+[youtube-streaming-setup]: youtube-streaming-setup.md "YouTube Streaming Setup"
+[misc.minimize-code-maximize-data]: misc.minimize-code-maximize-data.md "Minimize Code, Maximize Data (database-programmer.blogspot.com)"
+[misc.secure-systems]: misc.secure-systems.md "Secure Systems"
+[misc.software-development-continuous-production]: misc.software-development-continuous-production.md "Software Development is Continuous Production"
+[misc.if-wasm-existed]: misc.if-wasm-existed.md "If WASM+WASI existed ..."
+[kb.gcp]: kb.gcp.md "Google Cloud Platform [GCP]"

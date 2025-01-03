@@ -1,9 +1,5 @@
 ---
-id: qf2x7qu52ncyrvhcpk8n96m
 title: Software Development is Continuous Production
-desc: ''
-updated: 1695888461458
-created: 1695888200489
 tags:
   - blog
 ---
@@ -51,15 +47,15 @@ Shorter prediction cycles with more concrete outcomes and less of a "project pla
 We can create software, we should avoid adding things because we might need them in the future.
 This is where the contiuous process comes in.
 
-* Did you create a dashboard?
-* Is it working?
-* Can you answer both with a yes?
+- Did you create a dashboard?
+- Is it working?
+- Can you answer both with a yes?
 
 Good! Now let me introduce you to the following:
 
-* changes to the data source that you're tapping into
-* changes to dependencies that you use (e.g. security findings)
-* changes to the requirements
+- changes to the data source that you're tapping into
+- changes to dependencies that you use (e.g. security findings)
+- changes to the requirements
 
 That means it's not done.
 It means that it will keep changing until we decide that it will be abandoned.

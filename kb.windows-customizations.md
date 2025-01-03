@@ -1,34 +1,25 @@
 ---
-id: nxlvjm6hui0yaltptr19hok
 title: Windows Customizations
-desc: ''
-updated: 1705358891860
-created: 1703770067787
 tags:
   - windows
-  - registry
-  - tweak
-  - keyboard
   - kb
-  - shortcut
-  - hotkey
 ---
 
 ## Disable `Win+L`
 
 Source:
 
-* [How can I disable  the function (window key + L )
+- [How can I disable the function (window key + L )
   used to lock the window
   (answers.microsoft.com)](https://answers.microsoft.com/en-us/windows/forum/all/how-i-can-disable-the-function-window-key-l-used/fdb6696e-eb2f-4115-a79d-771b7e0bb496)
 
 `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System`
 
-* create a new DWORD 32-bit value
+- create a new DWORD 32-bit value
   named `DisableLockWorkstation`
-* give it one of these values:
-  * `1` Disable Lock Workstation
-  * `0` Enable Lock Workstation
+- give it one of these values:
+  - `1` Disable Lock Workstation
+  - `0` Enable Lock Workstation
 
 ## Chane the display resolution for a Hyper-V VM
 
@@ -39,12 +30,11 @@ set-vmvideo -vmname <your_vm_name> `
   -resolutiontype single
 ```
 
-* This _should_ enhance the graphics performance
+- This _should_ enhance the graphics performance
 
   ```powershell
   Set-VM -VMName <your_vm_name>  -EnhancedSessionTransportType HvSocket
   ```
-
 
 ## Windows Alt-Tab
 
@@ -67,7 +57,7 @@ set-vmvideo -vmname <your_vm_name> `
 
    ```reg
    Windows Registry Editor Version 5.00
-  
+
    [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
    "AltTabSettings"=dword:00000001
    ```
