@@ -1,4 +1,4 @@
 # Editor
 
-- [[kb.vs-code]]
+- [[vs-code]]
 - [[kb.neovim]]
