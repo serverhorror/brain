@@ -187,7 +187,7 @@ RestartNeeded : False
 
 ## Kubernetes CPU limits
 
-![Kubernetes CPU Limits](/assets/images/k8s-cpu-limits.excalidraw.svg)
+![Kubernetes CPU Limits](./assets/images/k8s-cpu-limits.excalidraw.svg)
 
 ## How to start a Pod
 
