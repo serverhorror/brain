@@ -1,7 +1,7 @@
 ---
 id: gq7v8x7dv5zcm5vnunp20ot
 title: Scratch
-desc: ''
+desc: ""
 updated: 1717841279820
 created: 1714815914844
 ---
@@ -24,9 +24,9 @@ Convert a `docx` file to `md`:
 
 > Functional Core, Imperative Shell
 
-* [Functional Core, Imperative Shell (destroyallsoftware.com)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
-* [Robert C  Martin -  Functional Programming; What? Why? When? (youtube.com)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
-* [Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com)](https://www.youtube.com/watch?v=P1vES9AgfC4)
+- [Functional Core, Imperative Shell (destroyallsoftware.com)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
+- [Robert C Martin - Functional Programming; What? Why? When? (youtube.com)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+- [Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com)](https://www.youtube.com/watch?v=P1vES9AgfC4)
 
 ```mermaid
 journey
@@ -43,9 +43,9 @@ journey
 
 ## Install Visual Studio 2022 Build Tools
 
-* [Visual Studio workload and component IDs](https://learn.microsoft.com/en-us/visualstudio/install/workload-and-component-ids?view=vs-2022)
-* [Use command-line parameters to install Visual Studio](https://learn.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio?view=vs-2022)
-  * [Use command-line parameters to install Visual Studio](https://learn.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio?view=vs-2022#use-winget-to-install-or-modify-visual-studio)
+- [Visual Studio workload and component IDs](https://learn.microsoft.com/en-us/visualstudio/install/workload-and-component-ids?view=vs-2022)
+- [Use command-line parameters to install Visual Studio](https://learn.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio?view=vs-2022)
+  - [Use command-line parameters to install Visual Studio](https://learn.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio?view=vs-2022#use-winget-to-install-or-modify-visual-studio)
 
 ```powershell
 winget install -e `
@@ -70,3 +70,11 @@ Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildBy
 ```groovy
 Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildByNumber(420).finish(hudson.model.Result.ABORTED, new java.io.IOException("Aborting build"));
 ```
+
+## IT Career Path
+
+These are (supposedly) generalized defintions what a career path in IT can look like:
+
+- [[project.it-career-path]]
+
+[project.it-career-path]: project.it-career-path.md "IT Career Path"

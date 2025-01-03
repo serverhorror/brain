@@ -15,6 +15,7 @@ This just exists to quickly go the the published page:
 - [[misc.rules]]
 - [[misc.as-a-software-developer]]
 - [[misc.secrets-in-systems-engineering]]
+- [[misc.programming-sucks]]
 
 ## Knowledge Base
 
@@ -72,6 +73,7 @@ This section contains useful links to related resources.
 [misc.rules]: misc.rules.md "Rules ..."
 [misc.as-a-software-developer]: misc.as-a-software-developer.md "As a software developer"
 [misc.secrets-in-systems-engineering]: misc.secrets-in-systems-engineering.md "Secrets in Systems Engineering"
+[misc.programming-sucks]: misc.programming-sucks.md "Programming Sucks"
 [kb]: kb.md "Knowledge Base [KB]"
 [misc.scratch]: misc.scratch.md "Scratch"
 [kb.git]: kb.git.md "Git"
@@ -80,6 +82,7 @@ This section contains useful links to related resources.
 [misc.rules]: misc.rules.md "Rules ..."
 [misc.as-a-software-developer]: misc.as-a-software-developer.md "As a software developer"
 [misc.secrets-in-systems-engineering]: misc.secrets-in-systems-engineering.md "Secrets in Systems Engineering"
+[misc.programming-sucks]: misc.programming-sucks.md "Programming Sucks"
 [kb]: kb.md "Knowledge Base [KB]"
 [misc.scratch]: misc.scratch.md "Scratch"
 [kb.git]: kb.git.md "Git"

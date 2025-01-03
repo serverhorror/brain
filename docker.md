@@ -1,7 +1,7 @@
 ---
 id: utksm5cjde6g2srko8qe3fn
 title: Docker
-desc: ''
+desc: ""
 updated: 1670780731645
 created: 1665437859494
 ---
@@ -15,11 +15,11 @@ It is quite likely that they have not used anything else but the `docker` comman
 That is absolutely OK.
 Let's clarify some vocabulary:
 
-* **Container** — that's the thing runs anything you like, a webserver, a database server, an email server, …
-* **Container Image** — this is what you need to create a container.
+- **Container** — that's the thing runs anything you like, a webserver, a database server, an email server, …
+- **Container Image** — this is what you need to create a container.
   You can't think of it like a cookiecutter.
   You can as many cookie as you like, it will always be the same as long as you use the same image
-* **`Dockerfile`** — this is what you use to create an image.
+- **`Dockerfile`** — this is what you use to create an image.
   You do **not** have to use a _"`Dockerfile`"_, there are a few options.
   Another options is a general _containerfile_.
   Systems like podman use a containerfile, it is — usually — compatible with a `Dockerfile`.
@@ -32,31 +32,45 @@ graph LR
 
 dockerfile[/Dockerfile/]
 containerfile[/Containerfile/]
-image(Image)
-container[Container]
 
-dockerfile & containerfile --> image --> container
+podman_build[podman]
+docker_build[docker]
+
+image(Image)
+container[/Container/]
+
+
+subgraph build
+  direction LR
+  docker_build
+  podman_build
+end
+
+containerfile-->podman_build
+dockerfile-->podman_build
+dockerfile-->docker_build
+
+subgraph runtime
+container
+end
+
+podman_build & docker_build-->image-->container
 ```
 
 ## Prepare your environment
 
-* Rancher Desktop
+- Rancher Desktop
 
 #### Docker
 
-* **Running a container from an existing image**
+- **Running a container from an existing image**
 
+- `docker run`
+- `docker run --volume ...`
+- `docker run --volume ... --port ...`
+- `docker run --volume ... --port ... --entrypoint`
 
-* `docker run`
-* `docker run --volume ...`
-* `docker run --volume ... --port ...`
-* `docker run --volume ... --port ... --entrypoint`
+- **Building a container from an existing image**
 
-* **Building a container from an existing image**
-
-* `docker build ...`
-* `docker buildx ...`
-
----
-
-* [Misc](docker.misc.md)
+- `docker build ...`
+- `docker buildx ...`

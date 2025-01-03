@@ -1,14 +1,6 @@
----
-id: t0h0wnipwmfqm6zzjoxhkgw
-title: Dendron
-desc: ""
-updated: 1684701067485
-created: 1665440353393
-tags:
-  - kb
----
+# Dendron
 
-- #deprecated
+- #deprecated -- we used this before we switched to [[root#Note Taking]]
 
 ## Publishing
 
@@ -20,3 +12,5 @@ npm install @dendronhq/dendron-cli@latest
 npx dendron publish init
 npx dendron publish dev
 ```
+
+[root#Note Taking]: root.md "Server!/Horror!"
