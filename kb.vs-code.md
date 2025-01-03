@@ -1,7 +1,7 @@
 ---
 id: iyfe99prifkm2956srumpqk
 title: VS Code
-desc: ''
+desc: ""
 updated: 1705235332094
 created: 1663335829621
 tags:
@@ -23,7 +23,7 @@ The setting below disables this detection and removes the automatic mount from t
 
 ```json
 {
-    "dev.containers.mountWaylandSocket": false
+  "dev.containers.mountWaylandSocket": false
 }
 ```
 
@@ -38,7 +38,7 @@ Remove-Item -Recurse -Force $env:USERPROFILE\.vscode
 
 ## Extensions
 
-Using [[`git worktree`|tags.git]]
+Using _`git worktree`_:
 
-* [Git Worktree (Phil Stainer)](https://marketplace.visualstudio.com/items?itemName=PhilStainer.git-worktree)
-* [Git Worktree (Git Worktrees)](https://marketplace.visualstudio.com/items?itemName=GitWorktrees.git-worktrees)
+- [Git Worktree (Phil Stainer)](https://marketplace.visualstudio.com/items?itemName=PhilStainer.git-worktree)
+- [Git Worktree (Git Worktrees)](https://marketplace.visualstudio.com/items?itemName=GitWorktrees.git-worktrees)
