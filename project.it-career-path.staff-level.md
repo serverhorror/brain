@@ -1,17 +1,13 @@
 ---
-id: yydlraknloi9xprdkazlf26
 title: Staff Level
-desc: ''
-updated: 1666864401818
-created: 1664289651415
 ---
 
 | Label                   | Level |
 | ----------------------- | :---: |
-| Lead / Mentor           |   ➖   |
-| Scope of Responsibility |   ➖   |
-| Job Ambiguity           |   ➕   |
-| Job Complexity          |   ➕   |
+| Lead / Mentor           |  ➖   |
+| Scope of Responsibility |  ➖   |
+| Job Ambiguity           |  ➕   |
+| Job Complexity          |  ➕   |
 
 ## Description
 
@@ -25,11 +21,11 @@ created: 1664289651415
    when given appropriate guidance.
 5. You are taking the first steps towards a _responsibility role_.
 6. In this role you will be able to take care of a system
-  _including_ all its components
-  for the whole lifecycle.
-  You will be able to influence local systems
-  _and_ take care of their availability.
-  This includes domain specific[^1] _and_ organizational tasks.
+   _including_ all its components
+   for the whole lifecycle.
+   You will be able to influence local systems
+   _and_ take care of their availability.
+   This includes domain specific[^1] _and_ organizational tasks.
 
 —
 
@@ -61,6 +57,7 @@ created: 1664289651415
 1. will receive some formal training
 1. will be able to influence the training plain
 
-[^1]: In IT this means technical hands on, or more, tasks like:
-      operating system, network and application configuration,
-      scripting, programming and system design.
+[^1]:
+    In IT this means technical hands on, or more, tasks like:
+    operating system, network and application configuration,
+    scripting, programming and system design.

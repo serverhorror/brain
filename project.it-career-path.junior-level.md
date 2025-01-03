@@ -1,17 +1,13 @@
 ---
-id: s8c4auulierpfjkmp7wnxcc
 title: Junior Level
-desc: ''
-updated: 1664297011802
-created: 1664289576960
 ---
 
 | Label                   | Level |
 | ----------------------- | :---: |
-| Lead / Mentor           |   ➖   |
-| Scope of Responsibility |   ➖   |
-| Job Ambiguity           |   ➖   |
-| Job Complexity          |   ➕   |
+| Lead / Mentor           |  ➖   |
+| Scope of Responsibility |  ➖   |
+| Job Ambiguity           |  ➖   |
+| Job Complexity          |  ➕   |
 
 ## Description
 
@@ -19,7 +15,7 @@ created: 1664289576960
 2. You will receive _well-defined tasks_ that carry some risk.
 3. You will be able to work on well-known tasks and recognize where you have a development potential for new topics.
 4. You can _work without supervision_ or guidance
-  and you will be able to make good decisions _when_ to ask for help, supervision or guidance
+   and you will be able to make good decisions _when_ to ask for help, supervision or guidance
 5. You will _**not have** responsibility roles_
 6. You will receive regular formal training
    _and_ be able to influence your training plan

@@ -1,18 +1,13 @@
 ---
-id: v5sodq35top1m2469ljnel7
 title: Principal Level
-desc: ''
-updated: 1666864421952
-created: 1665486914270
 ---
-
 
 | Label                   | level |
 | ----------------------- | :---: |
-| Lead / Mentor           |   ➕   |
-| Scope of Responsibility |   ➕   |
-| Job Ambiguity           |   ➕   |
-| Job Complexity          |  ➕➕   |
+| Lead / Mentor           |  ➕   |
+| Scope of Responsibility |  ➕   |
+| Job Ambiguity           |  ➕   |
+| Job Complexity          | ➕➕  |
 
 ### Description
 
@@ -20,11 +15,11 @@ created: 1665486914270
 
 ### Profile
 
-* can _work without supervision_
-* can have _**one or more** responsibility roles_
+- can _work without supervision_
+- can have _**one or more** responsibility roles_
 
 —
 
-* can learn new topics
-* can teach others
-* can analyze and resolve complex situations in detail
+- can learn new topics
+- can teach others
+- can analyze and resolve complex situations in detail

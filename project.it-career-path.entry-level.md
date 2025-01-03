@@ -1,24 +1,20 @@
 ---
-id: u2n7k8mmxcmix0o1ytapslk
 title: Entry Level
-desc: ''
-updated: 1664296885818
-created: 1664289542462
 ---
 
 | Label                   | Level |
 | ----------------------- | :---: |
-| Lead / Mentor           |   ➖   |
-| Scope of Responsibility |   ➖   |
-| Job Ambiguity           |   ➖   |
-| Job Complexity          |   ➖   |
+| Lead / Mentor           |   —   |
+| Scope of Responsibility |   —   |
+| Job Ambiguity           |   —   |
+| Job Complexity          |   —   |
 
 ## Description
 
 1. You are new to the workforce.
 2. You will take care of _well-defined tasks_ that carry no or little risk.
 3. Your work will be to familiarize yourself with routine tasks
-  _and_ minimize error levels or recognize error situations.
+   _and_ minimize error levels or recognize error situations.
 4. You will not have to work without guidance or supervision
 5. You will _**not have** responsibility roles_
 6. You will receive regular formal training
@@ -26,7 +22,7 @@ created: 1664289542462
 —
 
 1. We do not expect you to fix error situations or analyze complex situations
-  _if_ you encounter this situation we will guide you and provide help.
+   _if_ you encounter this situation we will guide you and provide help.
 2. We are happy if you do reach out to analyze situations
    _and_ will help you in progressing your knowledge and skill level.
 3. Everyone makes mistakes, as an _Entry Level_
