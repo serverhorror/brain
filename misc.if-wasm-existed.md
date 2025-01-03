@@ -1,11 +1,10 @@
 ---
 id: foxtk0ccnizla33r7h528cx
 title: If WASM+WASI existed ...
-desc: ''
+desc: ""
 updated: 1684702642968
 created: 1682693780399
 ---
-
 
 > If WASM+WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. Webassembly on the server is the future of computing. A standardized system interface was the missing link. Let's hope WASI is up to the task!
 
