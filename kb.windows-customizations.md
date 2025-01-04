@@ -21,21 +21,6 @@ Source:
   - `1` Disable Lock Workstation
   - `0` Enable Lock Workstation
 
-## Chane the display resolution for a Hyper-V VM
-
-```powershell
-set-vmvideo -vmname <your_vm_name> `
-  -horizontalresolution:1920  `
-  -verticalresolution:1080 `
-  -resolutiontype single
-```
-
-- This _should_ enhance the graphics performance
-
-  ```powershell
-  Set-VM -VMName <your_vm_name>  -EnhancedSessionTransportType HvSocket
-  ```
-
 ## Windows Alt-Tab
 
 ### Get the old Alt-Tab dialog back

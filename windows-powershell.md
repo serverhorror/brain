@@ -1,5 +1,5 @@
 ---
-title: PowerShell
+title: Windows PowerShell
 tags:
   - kb
   - powershell
@@ -28,4 +28,8 @@ get-aduser -filter "department -eq 'marketing' -AND enabled -eq 'True'" | Set-AD
 ```powershell
 # Force password reset for users in a certain field
 get-aduser -filter "department -eq 'marketing' -AND enabled -eq 'True'" | Set-ADuser -ChangePasswordAtLogon $True
+```
+
+```powershell
+
 ```

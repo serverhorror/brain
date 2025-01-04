@@ -9,6 +9,7 @@
     "yzhang.markdown-all-in-one",
 
     // Prettier for auto formatting code
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "davidanson.vscode-markdownlint"
   ]
 }
