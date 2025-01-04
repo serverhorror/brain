@@ -1,0 +1,3 @@
+[note]
+  # relative to templates/
+  template = "default.md"

@@ -1,0 +1,9 @@
+---
+title: {{title}}
+tags: []
+---
+
+{{content}}
+
+---
+
