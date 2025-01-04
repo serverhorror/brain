@@ -15,7 +15,7 @@
     "_site/**": true
   },
   "files.insertFinalNewline": true,
-  "foam.edit.linkReferenceDefinitions": "withExtensions",
+  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "gitdoc.enabled": true,
   "markdown.styles": [".vscode/custom-tag-style.css"]
 }
