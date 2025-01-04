@@ -53,16 +53,8 @@ Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildBy
 Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildByNumber(420).finish(hudson.model.Result.ABORTED, new java.io.IOException("Aborting build"));
 ```
 
-## IT Career Path
-
-These are (supposedly) generalized defintions what a career path in IT can look like:
-
-- [[project.it-career-path]]
-
 ## Games
 
 ### Dyson Sphere Program (DSP)
 
 - <https://factoriolab.github.io/dsp>
-
-[project.it-career-path]: project.it-career-path.md "IT Career Path"
