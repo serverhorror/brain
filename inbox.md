@@ -2,9 +2,34 @@
 
 ## Famous People
 
-* Hedy Lamarr -- fled from abuse; became a world famous actress and, just because she could invented, a carbonated drink and sprinkled on top a wireless/radio torpedo guidance system for the allied forces in WW2 (some say is the basis for bluetooth/wireless connections today)
-* Katherine Johnson -- calculated the trajectory for the flight of first American in space Alan Shepard (not sure about that part, I believe she did it with pen & paper)
-* the NASA computers -- hired in the 1930s to, literally, compute complex calculations. (This is, if I remember correctly, where the term computer originates from).
+* Hedy Lamarr -- fled from abuse;
+  became a world famous actress and, just because she could,
+  invented a carbonated drink and
+  sprinkled on top a wireless/radio torpedo guidance system
+  for the allied forces in WW2
+  (some say is the basis for bluetooth/wireless connections today)
+* Katherine Johnson
+  -- calculated the trajectory for the flight of first American in space
+  Alan Shepard (not sure about that part, I believe she did it with pen & paper)
+* the NASA computers -- hired in the 1930s to, literally,
+  compute complex calculations.
+  (This is, if I remember correctly, where the term computer originates from).
+
+## Quotes
+
+*
+  > A jack of all trades  
+  > Is a master of none,  
+  > But still always better  
+  > Than a master of one!
+  >
+  > -- (Unknown; possibly in reference to William Shakespeare)
+
+*
+  > Great minds think alike,  
+  > but fools rarely differ!
+  >
+  > -- (Unknown; proverb)
 
 ## `pandoc`
 
