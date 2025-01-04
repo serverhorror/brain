@@ -1,0 +1,6 @@
+#!/bin/sh
+
+GOPKGS="$(go list ./... | grep -v /vendor)"
+
+go test -v -coverprofile=coverage.out "$GOPKGS" 2>&1 > test-results.txt
+cat test-results.txt | go-junit-report > build/test-results/test/report.xml
