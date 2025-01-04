@@ -16,7 +16,7 @@
 - Reading / Articles
   - [ ] [[misc.minimize-code-maximize-data]]
   - [ ] [[misc.secure-systems]]
-  - [ ] [[misc.software-development-continuous-production]]
+  - [ ] [[article.software-development-continuous-production]]
   - [ ] [[misc.if-wasm-existed]]
 - [ ] Cloud: [[kb.gcp]]
 

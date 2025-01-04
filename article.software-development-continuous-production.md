@@ -1,14 +1,14 @@
 ---
 title: Software Development is Continuous Production
 tags:
-  - blog
+  - article
 ---
 
 I'm not saying there's no need to have a version (identifying reference number so we know what we refer to), but I don't think having a version makes something discrete or not.
 
 **The way I'm thinking about this is this**
 
-Software is an continuous and infinite production process.
+Software is a continuous and infinite production process.
 
 Yes, we can produce a version.
 Unlike a physical tool or device it is never finished.
