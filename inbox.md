@@ -1,5 +1,11 @@
 # Inbox
 
+## Famous People
+
+* Hedy Lamarr -- fled from abuse; became a world famous actress and, just because she could invented, a carbonated drink and sprinkled on top a wireless/radio torpedo guidance system for the allied forces in WW2 (some say is the basis for bluetooth/wireless connections today)
+* Katherine Johnson -- calculated the trajectory for the flight of first American in space Alan Shepard (not sure about that part, I believe she did it with pen & paper)
+* the NASA computers -- hired in the 1930s to, literally, compute complex calculations. (This is, if I remember correctly, where the term computer originates from).
+
 ## `pandoc`
 
 Convert a `docx` file to `md`:
@@ -18,9 +24,9 @@ Convert a `docx` file to `md`:
 
 ### Functional Core, Imperative Shell
 
-- [Functional Core, Imperative Shell (destroyallsoftware.com)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
-- [Robert C Martin - Functional Programming; What? Why? When? (youtube.com)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
-- [Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com)](https://www.youtube.com/watch?v=P1vES9AgfC4)
+* [Functional Core, Imperative Shell (destroyallsoftware.com)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
+* [Robert C Martin - Functional Programming; What? Why? When? (youtube.com)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+* [Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com)](https://www.youtube.com/watch?v=P1vES9AgfC4)
 
 ```mermaid
 journey
@@ -57,4 +63,4 @@ Jenkins.instance.getItemByFullName("example-folder/example-job-name").getBuildBy
 
 ### Dyson Sphere Program (DSP)
 
-- <https://factoriolab.github.io/dsp>
+* <https://factoriolab.github.io/dsp>

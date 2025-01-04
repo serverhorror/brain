@@ -16,6 +16,19 @@
   },
   "files.insertFinalNewline": true,
   "foam.edit.linkReferenceDefinitions": "withoutExtensions",
+  "foam.files.ignore": [
+    ".venv/**",
+    ".vscode/**",
+    ".zk/**",
+    "_layouts/**",
+    "_site/**",
+    "assets/**",
+    "attachments/**",
+    "images/**",
+    "node_modules/**",
+    "public/**",
+    "vendor/**"
+  ],
   "gitdoc.enabled": true,
   "markdown.styles": [".vscode/custom-tag-style.css"]
 }
