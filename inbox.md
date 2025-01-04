@@ -23,7 +23,9 @@
   > But still always better  
   > Than a master of one!
   >
-  > -- (Unknown; possibly in reference to William Shakespeare)
+  > -- (Unknown;
+  > possibly in reference to William Shakespeare;
+  > <https://en.wiktionary.org/wiki/jack_of_all_trades,_master_of_none#English>)
 
 *
   > Great minds think alike,  
