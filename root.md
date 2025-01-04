@@ -1,11 +1,11 @@
 # Server!/Horror
 
-- [[inbox]]
-- [[todo]]
-
 This just exists to quickly go the the published page:
 
 - <http://serverhorror.github.io/brain>
+
+- [[inbox]]
+- [[todo]]
 
 ## [[virtual-labs]]
 
@@ -31,44 +31,30 @@ They are mostly copy/pasted from the original source.
 
 ## Knowledge Base
 
-![[kb.semantic-line-breaks]]
-
-![[kb.bash]]
-
-![[CodeKata]]
-
-![[kubernetes]]
-
+- [[CodeKata]]
+- [[bash]]
+- [[semantic-line-breaks]]
+- [[kubernetes]]
+- [[python]]
 - [[windows]]
 
-## Random notes that are not yet sorted
+## Note Taking
 
-- [[misc.scratch]]
+**IMPORTANT**: Always use [[semantic-line-breaks]]
 
-### Note Taking
-
-- Alternative to Dendron: [Foam (foambubble.github.io)](https://foambubble.github.io/foam)
+- Currently using [Foam (foambubble.github.io)](https://foambubble.github.io/foam) for note taking.
   - <https://foambubble.github.io/foam/user/getting-started/recommended-extensions>
+
+- [[note-taking-dendron]] -- it was nice using this.
+  But it is not maintained any longer.
 
 ### Google AIPs
 
 - <https://google.aip.dev/>
 
-## Games
+## Random notes that are not yet sorted
 
-### Dyson Sphere Program (DSP)
-
-- <https://factoriolab.github.io/dsp>
-
-## Lookup
-
-This section contains useful links to related resources.
-
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+- [[inbox]]
 
 [inbox]: inbox.md "inbox"
 [todo]: todo.md "Todo"
@@ -79,9 +65,10 @@ This section contains useful links to related resources.
 [misc.as-a-software-developer]: misc.as-a-software-developer.md "As a software developer"
 [misc.secrets-in-systems-engineering]: misc.secrets-in-systems-engineering.md "Secrets in Systems Engineering"
 [misc.programming-sucks]: misc.programming-sucks.md "Programming Sucks"
-[kb.semantic-line-breaks]: kb.semantic-line-breaks.md "Semantic Line Breaks"
-[kb.bash]: kb.bash.md "Bash"
 [CodeKata]: CodeKata.md "CodeKata"
+[bash]: bash.md "Bash"
+[semantic-line-breaks]: semantic-line-breaks.md "Semantic Line Breaks"
 [kubernetes]: kubernetes.md "Kubernetes"
+[python]: python.md "Python"
 [windows]: windows.md "Windows"
-[misc.scratch]: misc.scratch.md "Scratch"
+[note-taking-dendron]: note-taking-dendron.md "Dendron (deprecated)"
