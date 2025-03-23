@@ -5,53 +5,51 @@ Kubernetes - Create KiND Cluster
 
 1. Get started
 
-   ```text
-   kind create cluster
-   ```
+   .. code-block:: text
+      :linenos:
+
+      kind create cluster
 
    output
 
-   ```text
-   Creating cluster "kind" ...
-   ✓ Ensuring node image (kindest/node:v1.25.0) 🖼
-   ✓ Preparing nodes 📦
-   ✓ Writing configuration 📜
-   ✓ Starting control-plane 🕹️
-   ✓ Installing CNI 🔌
-   ✓ Installing StorageClass 💾
-   Set kubectl context to "kind-kind"
-   You can now use your cluster with:
+   .. code-block:: text
+      :linenos:
 
-   kubectl cluster-info --context kind-kind
+      Creating cluster "kind" ...
+      ✓ Ensuring node image (kindest/node:v1.25.0) 🖼
+      ✓ Preparing nodes 📦
+      ✓ Writing configuration 📜
+      ✓ Starting control-plane 🕹️
+      ✓ Installing CNI 🔌
+      ✓ Installing StorageClass 💾
+      Set kubectl context to "kind-kind"
+      You can now use your cluster with:
 
-   Have a nice day! 👋
-   ```
+      kubectl cluster-info --context kind-kind
 
-1. standard `kubectl` commands
+      Have a nice day! 👋
 
-   ````text
+   .. code-block:: text
+      :linenos:
 
-   ```text
-   kubectl cluster-info --context kind-kind
-   ````
+      kubectl cluster-info --context kind-kind
 
    output
 
-   ```text
-   Kubernetes control plane is running at https://127.0.0.1:56236
-   CoreDNS is running at https://127.0.0.1:56236/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+   .. code-block:: text
+      :linenos:
 
-   To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
-   ```
+      Kubernetes control plane is running at https://127.0.0.1:56236
+      CoreDNS is running at https://127.0.0.1:56236/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
 
-   And taking a look at the context
+      To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
 
-   ```text
-   kubectl config current-context
-   ```
+   .. code-block:: text
+      :linenos:
 
-   output
+      kubectl config current-context
 
-   ```text
-   kind-kind
-   ```
+   .. code-block:: text
+      :linenos:
+
+      kind-kind
