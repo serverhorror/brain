@@ -5,7 +5,7 @@ taskfile.dev
 
 - `taskfile.dev <https://taskfile.dev/>`_
 
-Might be a nice alternative to :cmd:`make`
+Might be a nice alternative to :program:`make`
 
 Installation
 ------------
