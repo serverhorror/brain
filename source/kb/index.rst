@@ -16,7 +16,8 @@ Knowledge Base
 Cloud9
 ======
 
-A development environment offered by :ref:`company.aws`.
+A development environment offered by AWS.
+I believe this will soon just die.
 
 Find out:
 
