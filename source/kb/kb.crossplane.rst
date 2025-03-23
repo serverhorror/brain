@@ -1,4 +1,4 @@
-.. _kb_crossplane:
+.. _kb.crossplane:
 
 Crossplane
 ==========
