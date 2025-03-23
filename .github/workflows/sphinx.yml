@@ -17,7 +17,7 @@ jobs:
           python-version-file: "pyproject.toml"
       - name: Build HTML
         run: |
-          uvx --from sphinx --with myst-parser sphinx-build -b html source build/html
+          uvx --from sphinx --with furo --with myst-parser sphinx-build -b html source build/html
       - name: Upload HTML Artifact
         uses: actions/upload-pages-artifact@v3
         with:
