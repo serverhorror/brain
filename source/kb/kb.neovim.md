@@ -1,14 +1,4 @@
----
-id: wfa0ezuoa81eppr89q46yac
-title: NeoVIM
-desc: ""
-updated: 1716160972880
-created: 1682755423382
-tags:
-  - kb
-  - tools
-  - windows
----
+# NeoVIM
 
 ## Using the system clipboard
 
