@@ -1,9 +1,4 @@
----
-title: Windows Customizations
-tags:
-  - windows
-  - kb
----
+# Windows Customizations
 
 ## Disable `Win+L`
 
@@ -26,10 +21,10 @@ Source:
 ### Get the old Alt-Tab dialog back
 
 1. Open Registry Editor.
-2. Go to `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer`.
-3. Create a DWORD value named `AltTabSettings`.
-4. Set its value data to `1`.
-5. Restart Windows Explorer or sign out and sign in again to apply the change.
+1. Go to `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer`.
+1. Create a DWORD value named `AltTabSettings`.
+1. Set its value data to `1`.
+1. Restart Windows Explorer or sign out and sign in again to apply the change.
 
    ```batch
    taskkill /f /im explorer.exe
@@ -40,16 +35,18 @@ Source:
 
 1. Save the following as a `.reg` file.
 
-   ```reg
+   .. todo:: FIXME find a pygments lexer for `reg` files
+
+   ```text
    Windows Registry Editor Version 5.00
 
    [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
    "AltTabSettings"=dword:00000001
    ```
 
-2. Double-click the file to apply the change.
+1. Double-click the file to apply the change.
 
-3. Restart Windows Explorer or sign out and sign in again to apply the change.
+1. Restart Windows Explorer or sign out and sign in again to apply the change.
 
    ```batch
    taskkill /f /im explorer.exe
