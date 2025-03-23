@@ -1,7 +1,7 @@
 # Semantic Line Breaks
 
 Using [[semantic-line-breaks]] is useful.
-All text, especially for a [[root#Knowledge Base|Knowledge Base]] should use this!
+All text, especially for a [[kb]] should use this!
 
 > ## Semantic Line Breaks Specification (SemBr)
 >
@@ -46,4 +46,4 @@ All text, especially for a [[root#Knowledge Base|Knowledge Base]] should use thi
 - “[Semantic Line Breaks](https://sembr.org/)” Accessed January 22, 2021
 
 [semantic-line-breaks]: semantic-line-breaks.md "Semantic Line Breaks"
-[root#Knowledge Base|Knowledge Base]: root.md "Server!/Horror"
+[kb]: kb/index.rst "Knowledge Base"
