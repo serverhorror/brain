@@ -1,0 +1,11 @@
+[project]
+name = "brain"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "furo>=2024.8.6",
+    "myst-parser",
+    "sphinx>=8.2.3",
+    "sphinx-autobuild>=2024.10.3",
+]
