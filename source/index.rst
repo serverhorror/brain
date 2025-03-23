@@ -42,7 +42,8 @@ Todos
 
 .. toctree::
    :glob:
-   :maxdepth: 1
+   :titlesonly:
+   :maxdepth: 5
    :caption: Contents:
 
    kb/index
@@ -63,14 +64,6 @@ This just exists to quickly go the the published page:
 
 - [[inbox]]
 - [[todo]]
-
-Articles
---------
-
-.. local toctree::
-   :maxdepth: 1
-
-   article/*
 
 :ref:`virtual-labs-index`
 -------------------------
@@ -112,7 +105,7 @@ They are mostly copy/pasted from the original source.
 - [[python]]
 - [[windows]]
 
-![[projects]]
+* :ref:`projects`
 
 ## Note Taking
 

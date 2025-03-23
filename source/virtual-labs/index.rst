@@ -3,5 +3,9 @@
 Virtual Labs
 ============
 
-* :ref:`virtual-labs-instruqt`
-* :ref:`virtual-labs-sadserver`
+.. toctree::
+   :glob:
+   :titlesonly:
+   :maxdepth: 1
+
+   *

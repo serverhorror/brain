@@ -7,8 +7,8 @@ Oh my! 💀 Docker, Images, Containers
 
 Let's talk these.
 
-When someone talks about _Docker_, they usually mean _containers_ in general.
-It is quite likely that they have not used anything else but the `docker` command or _Docker Desktop_.
+When someone talks about *Docker*, they usually mean *containers* in general.
+It is quite likely that they have not used anything else but the `docker` command or *Docker Desktop*.
 That is absolutely OK.
 Let's clarify some vocabulary:
 
@@ -17,13 +17,15 @@ Let's clarify some vocabulary:
   You can't think of it like a cookiecutter.
   You can as many cookie as you like, it will always be the same as long as you use the same image
 - **`Dockerfile`** — this is what you use to create an image.
-  You do **not** have to use a _"`Dockerfile`"_, there are a few options.
-  Another options is a general _containerfile_.
+  You do **not** have to use a *`Dockerfile`*, there are a few options.
+  Another option is a general *containerfile*.
   Systems like podman use a containerfile, it is — usually — compatible with a `Dockerfile`.
 
 How does this look?
 
-.. code-block:: mermaid
+.. todo::FIXME: enable mermaid
+
+.. code-block:: text
 
   %%{ init: { 'flowchart': { 'curve': 'monotoneX' } } }%%
   graph LR

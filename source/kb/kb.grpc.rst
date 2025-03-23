@@ -1,22 +1,27 @@
----
-title: gRPC
-tags:
-  - kb
-  - google
-  - grpc
-  - dev
-  - go
----
+.. _kb.grpc:
 
-## [buf.build](https://buf.build)
+
+gRPC
+====
+
+.. _kb.grpc-buf.build:
+
+[buf.build]
+===========
+
+* https://buf.build
 
 > We thought about Protocol Buffers so you don't have to.
 
-### Relative Imports in gRPC and buf
+Relative Imports in gRPC and buf
+--------------------------------
 
 - how does this work?
 
-## Required Tools
+.. _kb.grpc.required-tools:
+
+Required Tools
+--------------
 
 - Download the `protoc` compiler from
 

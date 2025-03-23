@@ -13,9 +13,9 @@ tags:
 It exposes a lot of complexity by design.
 The reason for this is, developers decided to make it flexible enough to create simpler frameworks based on Tekton
 
-- [[kb.argocd]]
-- [[kb.codefresh]]
-- [[kb.crossplane]]
+- [[kb.argocd.rst]]
+- [[kb.codefresh.rst]]
+- [[kb.crossplane.rst]]
 
 - <https://tekton.dev>
 

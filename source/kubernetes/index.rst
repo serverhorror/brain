@@ -5,6 +5,7 @@ Kubernetes
 
 .. toctree::
    :glob:
+   :titlesonly:
    :maxdepth: 1
    :caption: Contents:
 
@@ -16,7 +17,9 @@ Kubernetes
 Kubernetes I\ *n* Docker (KI\ *n*\ D)
 -------------------------------------
 
-.. code-block:: mermaid
+.. todo:: FIXME: enable mermaid
+
+.. code-block:: text
 
   graph LR
     image([image]) --> |used by|container
@@ -25,7 +28,9 @@ Kubernetes I\ *n* Docker (KI\ *n*\ D)
       container
     end
 
-.. code-block:: mermaid
+.. todo:: FIXME: enable mermaid
+
+.. code-block:: text
 
   graph LR
 

@@ -14,7 +14,7 @@ Source:
 
 ## JuPyter Notebook
 
-- [Link to JuPyter Notebook](assets/example.ipynb)
+- [Link to JuPyter Notebook](/_assets/example.ipynb)
 
 [kb.git]: kb.git.md "Git"
 

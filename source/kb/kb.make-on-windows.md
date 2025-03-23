@@ -19,7 +19,7 @@ tags:
   winget install -e --id GnuWin32.Tree
   ```
 
-  ![install _GnuWin32_](assets/images/2022-09-24-12-15-46.png)
+  ![install _GnuWin32_](/_assets/images/2022-09-24-12-15-46.png)
 
 - Run `make` from any `cmd.exe` or _PowerShell_
 
@@ -35,7 +35,7 @@ tags:
 
   - To be able to run it you need to restart your current terminal
     This is the usual process to reload new environment variables
-    ![make output](assets/images/2022-09-24-12-28-32.png)
+    ![make output](/_assets/images/2022-09-24-12-28-32.png)
 
 ## MSYS2
 
@@ -48,7 +48,7 @@ winget install -e --id msys2.msys2
 ### Running `make` from MSYS2
 
 - Run _MSYS2_ from the start menu
-  ![MSYS2](assets/images/2022-09-24-12-09-49.png)
+  ![MSYS2](/_assets/images/2022-09-24-12-09-49.png)
 
 - Install make inside of _MSYS2_
 
@@ -62,4 +62,4 @@ winget install -e --id msys2.msys2
   which make
   ```
 
-  ![run make in _MSYS2_](assets/images/2022-09-24-12-12-38.png)
+  ![run make in _MSYS2_](/_assets/images/2022-09-24-12-12-38.png)

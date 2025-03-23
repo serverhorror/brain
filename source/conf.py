@@ -25,7 +25,7 @@ source_suffix = {
     ".md": "markdown",
 }
 
-# make sure the todo items are shown
+# make sure the todo items are not shown
 todo_include_todos = True
 
 templates_path = ["_templates"]

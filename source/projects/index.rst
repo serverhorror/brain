@@ -1,12 +1,11 @@
-.. _article-index:
+.. _projects:
 
-Articles
+Projects
 ========
 
 .. toctree::
    :glob:
    :titlesonly:
    :maxdepth: 1
-   :caption: Contents:
 
-   *
+   **

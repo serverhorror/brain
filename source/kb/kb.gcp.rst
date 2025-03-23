@@ -1,4 +1,4 @@
-.. _kb-gcp:
+.. _kb.gcp:
 
 Google Cloud Platform [GCP]
 ===========================
@@ -6,7 +6,7 @@ Google Cloud Platform [GCP]
 Google Cloud Deployment Manager
 -------------------------------
 
-.. image:: assets/images/2022-09-26-11-56-27.png
+.. image:: /_assets/images/2022-09-26-11-56-27.png
   :alt: chat about Google Cloud Deployment Manager
   :align: center
 
