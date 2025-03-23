@@ -63,23 +63,25 @@ Code Design
 Functional Core, Imperative Shell
 ---------------------------------
 
-* [Functional Core, Imperative Shell (destroyallsoftware.com)](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
-* [Robert C Martin - Functional Programming; What? Why? When? (youtube.com)](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
-* [Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com)](https://www.youtube.com/watch?v=P1vES9AgfC4)
+* `Functional Core, Imperative Shell (destroyallsoftware.com) <https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell>`_
+* `Robert C Martin - Functional Programming; What? Why? When? (youtube.com) <https://www.youtube.com/watch?v=7Zlp9rKHGD4>`_
+* `Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com) <https://www.youtube.com/watch?v=P1vES9AgfC4>`_
 
-.. code-block:: mermaid
-  :linenos:
+  .. todo:: FIXME: enable mermaid
 
-  journey
-     title Functional Core, Imperative Shell
-     section Side Effects (Imperative Shell)
-      I/O: 3: Developer
-      Validation: 3: Developer
-     section Pure (Functional Core)
-      Business Logic: 4: Developer
-     section Side Effects (Imperative Shell)
-      Validation: 3: Developer
-      I/O: 3: Developer
+  .. code-block:: text
+    :linenos:
+
+    journey
+       title Functional Core, Imperative Shell
+       section Side Effects (Imperative Shell)
+        I/O: 3: Developer
+        Validation: 3: Developer
+       section Pure (Functional Core)
+        Business Logic: 4: Developer
+       section Side Effects (Imperative Shell)
+        Validation: 3: Developer
+        I/O: 3: Developer
 
 Jenkins Snippets
 ----------------
