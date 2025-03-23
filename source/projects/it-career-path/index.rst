@@ -17,17 +17,19 @@ and we will trust you bring in peers from other areas as you see fit.
 Entry Level
 ===========
 
-+-------------------------+-------+
-| Label                   | Level |
-+=========================+=======+
-| Lead / Mentor           | —     |
-+-------------------------+-------+
-| Scope of Responsibility | —     |
-+-------------------------+-------+
-| Job Ambiguity           | —     |
-+-------------------------+-------+
-| Job Complexity          | —     |
-+-------------------------+-------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - —
+  * - Scope of Responsibility
+    - —
+  * - Job Ambiguity
+    - —
+  * - Job Complexity
+    - —
 
 Description
 -----------
@@ -65,17 +67,19 @@ Description
 Junior Level
 ============
 
-+-------------------------+-------+
-| Label                   | Level |
-+-------------------------+-------+
-| Lead / Mentor           | ➖    |
-+-------------------------+-------+
-| Scope of Responsibility | ➖    |
-+-------------------------+-------+
-| Job Ambiguity           | ➖    |
-+-------------------------+-------+
-| Job Complexity          | ➕    |
-+-------------------------+-------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - -
+  * - Scope of Responsibility
+    - —
+  * - Job Ambiguity
+    - —
+  * - Job Complexity
+    - ➕
 
 Description
 -----------
@@ -102,21 +106,22 @@ Description
 5. We want you to work in a safe environment and will provide some guidance
    to help you progress your career
 
-
 Staff Level
 ===========
 
-+-------------------------+-------+
-+ Label                   | Level |
-+=========================+=======+
-+ Lead / Mentor           |  ➖   |
-+-------------------------+-------+
-+ Scope of Responsibility |  ➖   |
-+-------------------------+-------+
-+ Job Ambiguity           |  ➕   |
-+-------------------------+-------+
-+ Job Complexity          |  ➕   |
-+-------------------------+-------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - —
+  * - Scope of Responsibility
+    - —
+  * - Job Ambiguity
+    - ➕
+  * - Job Complexity
+    - ➕
 
 Description
 -----------
@@ -172,17 +177,19 @@ Development
 Senior Level
 ============
 
-+-------------------------+-------+
-| Label                   | Level |
-+=========================+=======+
-| Lead / Mentor           | ➖/➕  |
-+-------------------------+-------+
-| Scope of Responsibility | ➕    |
-+-------------------------+-------+
-| Job Ambiguity           | ➕    |
-+-------------------------+-------+
-| Job Complexity          | ➕    |
-+-------------------------+-------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - ➖/➕
+  * - Scope of Responsibility
+    - ➕
+  * - Job Ambiguity
+    - ➕
+  * - Job Complexity
+    - ➕
 
 Description
 -----------
@@ -228,17 +235,19 @@ Profile
 Principal
 =========
 
-+-------------------------+-------+
-| Label                   | Level |
-+=========================+=======+
-| Lead / Mentor           |  ➕   |
-+-------------------------+-------+
-| Scope of Responsibility |  ➕   |
-+-------------------------+-------+
-| Job Ambiguity           |  ➕   |
-+-------------------------+-------+
-| Job Complexity          | ➕➕  |
-+-------------------------+-------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - ➕
+  * - Scope of Responsibility
+    - ➕
+  * - Job Ambiguity
+    - ➕
+  * - Job Complexity
+    - ➕➕
 
 Description
 -----------
@@ -260,62 +269,70 @@ Profile
 Senior Principal
 ================
 
-+-------------------------+-------+
-| Label                   | Level |
-+=========================+=======+
-| Lead / Mentor           |  ➕   |
-+-------------------------+-------+
-| Scope of Responsibility | ➕➕  |
-+-------------------------+-------+
-| Job Ambiguity           | ➕➕  |
-+-------------------------+-------+
-| Job Complexity          | ➕➕  |
-+-------------------------+-------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - ➕
+  * - Scope of Responsibility
+    - ➕➕
+  * - Job Ambiguity
+    - ➕➕
+  * - Job Complexity
+    - ➕➕
 
 Consulting
 ==========
 
-+-------------------------+-------+
-| Label                   | Level |
-+=========================+=======+
-| Lead / Mentor           |   ➕   |
-+-------------------------+-------+
-| Scope of Responsibility |  ➕➕  |
-+-------------------------+-------+
-| Job Ambiguity           |  ➕➕➕ |
-+-------------------------+-------+
-| Job Complexity          |  ➕➕➕ |
-+-------------------------+-------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - ➕
+  * - Scope of Responsibility
+    - ➕➕
+  * - Job Ambiguity
+    - ➕➕➕
+  * - Job Complexity
+    - ➕➕➕
 
 Distinguished
 =============
 
-+-------------------------+--------+
-| Label                   | Level  |
-+=========================+========+
-| Lead / Mentor           | ➕➕   |
-+-------------------------+--------+
-| Scope of Responsibility | ➕➕➕ |
-+-------------------------+--------+
-| Job Ambiguity           | 🌐🌐🌐 |
-+-------------------------+--------+
-| Job Complexity          | 🌐🌐🌐 |
-+-------------------------+--------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - ➕➕
+  * - Scope of Responsibility
+    - ➕➕➕
+  * - Job Ambiguity
+    - 🌐🌐🌐
+  * - Job Complexity
+    - 🌐🌐🌐
 
 Fellow
 ======
 
-+-------------------------+--------+
-| Label                   | Level  |
-+=========================+========+
-| Lead / Mentor           | 🌐🌐🌐    |
-+-------------------------+--------+
-| Scope of Responsibility | 🌐🌐🌐    |
-+-------------------------+--------+
-| Job Ambiguity           | 🌐🌐🌐    |
-+-------------------------+--------+
-| Job Complexity          | 🌐🌐🌐    |
-+-------------------------+--------+
+.. list-table::
+  :header-rows: 1
+
+  * - Label
+    - Level
+  * - Lead / Mentor
+    - 🌐🌐🌐
+  * - Scope of Responsibility
+    - 🌐🌐🌐
+  * - Job Ambiguity
+    - 🌐🌐🌐
+  * - Job Complexity
+    - 🌐🌐🌐
 
 .. rubric:: Footnotes
 
