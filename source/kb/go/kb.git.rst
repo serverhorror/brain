@@ -8,30 +8,31 @@ Git
 Using **BitBucket Server/Datacenter** Git
 =========================================
 
-1. Create a personal access token
-1. Do this for your git configuration
+#. Create a personal access token
 
-  .. code-block:: text
-     :linenos:
+#. Do this for your git configuration
 
-    git config --global http.https://bitbucket.example.com.extraHeader 'Authorization: Bearer  Token'
+   .. code-block:: text
+      :linenos:
+
+      git config --global http.https://bitbucket.example.com.extraHeader 'Authorization: Bearer  Token'
 
    Some more details
 
-  .. code-block:: text
-    :linenos:
+   .. code-block:: text
+     :linenos:
 
-    git clone -c http.extraHeader='Authorization: Bearer REPLACE_WITH_TOKEN' https://bitbucket.example.com/scm/project-name/repo-name.git
-    git config --global http.https://bitbucket.example.com.extraHeader 'Authorization: Bearer  Token'
+     git clone -c http.extraHeader='Authorization: Bearer REPLACE_WITH_TOKEN' https://bitbucket.example.com/scm/project-name/repo-name.git
+     git config --global http.https://bitbucket.example.com.extraHeader 'Authorization: Bearer  Token'
 
-  **OR** (if you don't want to use the token in the header)
+   *or* (if you don't want to use the token in the header)
 
-  .. code-block:: text
-    :linenos:
+   .. code-block:: text
+      :linenos:
 
-    git config --global url."https://<username>:<personal-access-token>@bitbucket.example.com".insteadOf "https://bitbucket.example.com"
+      git config --global url."https://<username>:<personal-access-token>@bitbucket.example.com".insteadOf "https://bitbucket.example.com"
 
-1. As your module URLs use something like this for :ref:`kb.go` projects:
+#. As your module URLs use something like this for :ref:`kb.go` projects:
 
    - `bitbucket.example.com/project/repo`
 
