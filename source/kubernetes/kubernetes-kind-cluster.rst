@@ -1,4 +1,7 @@
-# Kubernetes - Create KiND Cluster
+.. _kubernetes-kind-cluster:
+
+Kubernetes - Create KiND Cluster
+================================
 
 1. Get started
 

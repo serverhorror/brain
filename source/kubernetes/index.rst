@@ -1,34 +1,48 @@
-# Kubernetes
+.. _kubernetes:
 
-## Kubernetes I*n* Docker (KI*n*D)
+Kubernetes
+==========
 
-```mermaid
-graph LR
-  image([image]) --> |used by|container
-  subgraph pod
-    direction TB
-    container
-  end
-```
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :caption: Contents:
 
-```mermaid
-graph LR
+   *
 
-  subgraph deployment
-    direction TB
+   **
 
+
+Kubernetes I\ *n* Docker (KI\ *n*\ D)
+-------------------------------------
+
+.. code-block:: mermaid
+
+  graph LR
+    image([image]) --> |used by|container
     subgraph pod
+      direction TB
       container
     end
 
+.. code-block:: mermaid
 
-  end
-```
+  graph LR
 
-We can easily create a cluster using [[kubernetes-kind-cluster]].
+    subgraph deployment
+      direction TB
 
-To create simple (trivial) resources you can use `kubectl` directly.
-For a complete example look at [[kubernetes-create-simple-resource]]
+      subgraph pod
+        container
+      end
+
+    end
+
+We can easily create a cluster using :ref:`kubernetes-kind-cluster`.
+
+
+To create simple (trivial) resources you can use :command:`kubectl` directly.
+For a complete example look at :ref:`kubernetes-create-simple-resource`.
 
 ### _Alternative_ — Install `minikube`
 

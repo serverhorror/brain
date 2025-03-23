@@ -1,12 +1,9 @@
----
-id: utksm5cjde6g2srko8qe3fn
-title: Docker
-desc: ""
-updated: 1670780731645
-created: 1665437859494
----
+======
+Docker
+======
 
-## Oh my! 💀 Docker, Images, Containers
+Oh my! 💀 Docker, Images, Containers
+====================================
 
 Let's talk these.
 
@@ -26,42 +23,46 @@ Let's clarify some vocabulary:
 
 How does this look?
 
-```mermaid
-%%{ init: { 'flowchart': { 'curve': 'monotoneX' } } }%%
-graph LR
+.. code-block:: mermaid
 
-dockerfile[/Dockerfile/]
-containerfile[/Containerfile/]
+  %%{ init: { 'flowchart': { 'curve': 'monotoneX' } } }%%
+  graph LR
 
-podman_build[podman]
-docker_build[docker]
+  dockerfile[/Dockerfile/]
+  containerfile[/Containerfile/]
 
-image(Image)
-container[/Container/]
+  podman_build[podman]
+  docker_build[docker]
+
+  image(Image)
+  container[/Container/]
 
 
-subgraph build
-  direction LR
-  docker_build
-  podman_build
-end
+  subgraph build
+    direction LR
+    docker_build
+    podman_build
+  end
 
-containerfile-->podman_build
-dockerfile-->podman_build
-dockerfile-->docker_build
+  containerfile-->podman_build
+  dockerfile-->podman_build
+  dockerfile-->docker_build
 
-subgraph runtime
-container
-end
+  subgraph runtime
+  container
+  end
 
-podman_build & docker_build-->image-->container
-```
+  podman_build & docker_build-->image-->container
 
-## Prepare your environment
+Prepare your environment
+========================
 
-- Rancher Desktop
+.. todo:: Add a section about installing other tools
 
-#### Docker
+    - Rancher Desktop
+
+Docker
+------
 
 - **Running a container from an existing image**
 

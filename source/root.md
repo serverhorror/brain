@@ -4,8 +4,8 @@ This just exists to quickly go the the published page:
 
 - <http://serverhorror.github.io/brain>
 
-- [[inbox]]
-- [[todo]]
+- [[inbox.rst]]
+- [[todo.rst]]
 
 ## Articles
 
@@ -51,7 +51,7 @@ They are mostly copy/pasted from the original source.
 - [[python]]
 - [[windows]]
 
-![[projects]]
+![[index.rst]]
 
 ## Note Taking
 
@@ -69,7 +69,7 @@ They are mostly copy/pasted from the original source.
 
 ## Random notes that are not yet sorted
 
-- [[inbox]]
+- [[inbox.rst]]
 
 ---
 

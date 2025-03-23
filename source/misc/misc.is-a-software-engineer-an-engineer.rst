@@ -1,10 +1,14 @@
-# Is a Software engineer an engineer?
+.. _misc-is-a-software-engineer-an-engineer:
 
-> Alberta regulator says no, riling the province's tech sector
+Is a Software engineer an engineer?
+-----------------------------------
 
-## [SEAN SILCOFF](https://www.theglobeandmail.com/authors/sean-silcoff/)
+| Alberta regulator says no, riling the province's tech sector
 
-> TECHNOLOGY REPORTER PUBLISHED OCTOBER 14, 2022
+`SEAN SILCOFF <https://www.theglobeandmail.com/authors/sean-silcoff/>`_
+=======================================================================
+
+| TECHNOLOGY REPORTER PUBLISHED OCTOBER 14, 2022
 
 Alberta's engineering regulator is in a fight with the province's technology sector, insisting anyone with the title "software engineer" must hold a permit - and pay fees for that right.
 
@@ -24,7 +28,7 @@ APEGA and Canada's 11 other provincial and territorial engineering regulators ha
 
 "Professional engineers are held to high professional and ethical standards and work in the public interest," it said. "The public places a high degree of trust in the profession and these layers of accountability and transparency help keep Canadians safe."
 
-The regulators are mandated to enforce their relative statutes and have sporadically taken legal action to protect their turf. Ordre des Ing├⌐nieurs du Qu├⌐bec successfully sued Microsoft in the early 2000s to stop it from calling graduates of a training course "Microsoft Certified Systems Engineer." Quebec's Superior Court in 2005 upheld a lower-court ruling against Microsoft that came with a $1,000 fine. In 2019, an Alberta Court of Queen's Bench justice ordered an injunction sought by APEGA against an individual for using the title "software engineer," awarding costs to the association.
+The regulators are mandated to enforce their relative statutes and have sporadically taken legal action to protect their turf. Ordre des Ingénieurs du Québec successfully sued Microsoft in the early 2000s to stop it from calling graduates of a training course "Microsoft Certified Systems Engineer." Québec's Superior Court in 2005 upheld a lower-court ruling against Microsoft that came with a $1,000 fine. In 2019, an Alberta Court of Queen's Bench justice ordered an injunction sought by APEGA against an individual for using the title "software engineer," awarding costs to the association.
 
 "We've always had a concern with people calling themselves ΓÇÿsoftware engineers,'" said Engineers Canada CEO Gerard McDonald. "When regulators are aware of it, that is something they will take enforcement action against." He said governing bodies for doctors and lawyers wouldn't stand for uncertified practitioners calling themselves by those titles either.
 
@@ -34,7 +38,9 @@ Engineers come in various forms, including aerospace, chemical, civil, electrica
 
 But coding "engineers" don't typically seek or require industry accreditation. U.S. developer Margaret Hamilton is widely credited with coining the term "software engineer" after working on the on-board flight software for the U.S. National Aeronautics and Space Administration's Apollo program in the 1960s. She said her team's work should be taken as seriously as other engineering and scientific disciplines. Many agreed. "The term ΓÇÿengineer' has been used in software for decades," said Dax Dasilva, executive chairman of Montreal's Lightspeed Commerce Inc. "I don't believe more regulation around terminology is suddenly necessary."
 
-Further complicating matters: "software engineer" is officially recognized [by the federal National Occupational Classification system](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnoc.esdc.gc.ca%2FStructure%2FNocProfile%3Fobjectid%3Ds%252B18U2GgCu7IIJq7TKb3GrKyNg8uVSExHr0Qyk7WAV4%253D&data=05%7C01%7CKMills%40globeandmail.com%7C4933f9d3c94e4790e7ae08daae21d92a%7C44376110425e46ab942e26c9518bfd03%7C1%7C0%7C638013757655068719%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3uqts2468q5TgzThGHEbfWs2xmw%2Brl4oyEZSnz0wTp0%3D&reserved=0) as a job title.
+Further complicating matters: "software engineer" is officially recognized
+`by the federal National Occupational Classification system <https://noc.esdc.gc.ca/Structure/NocProfile?objectid=s%2B18U2GgCu7IIJq7TKb3GrKyNg8uVSExHr0Qyk7WAV4%3D>`_
+as a job title.
 
 Provincial and territorial laws regulating engineers vary. Alberta's Engineering and Geoscience Professions Act states no individual, corporation or partnership can use the word "engineer" in a job title unless they are "a professional engineer, licensee or permit holder entitled to engage in the practice of engineering."
 

@@ -1,8 +1,7 @@
----
-title: Software Development is Continuous Production
-tags:
-  - article
----
+.. _article_software-development-continuous-production:
+
+Software Development is Continuous Production
+=============================================
 
 I'm not saying there's no need to have a version (identifying reference number so we know what we refer to), but I don't think having a version makes something discrete or not.
 

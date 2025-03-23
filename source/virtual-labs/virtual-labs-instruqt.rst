@@ -1,4 +1,7 @@
-# instruqt
+.. _virtual-labs-instruqt:
+
+instruqt
+========
 
 Looks like it could be a good way to learn new things.
 The platform provides more server side functionality than e.g. HackerRank or CodeWars.
@@ -7,6 +10,7 @@ The platform provides more server side functionality than e.g. HackerRank or Cod
 - Payment happens in credits, which are bought in advance.
   - Packages start at 40_000 USD.
 
-## References
+References
+----------
 
 - <https://instruqt.com/>

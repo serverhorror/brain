@@ -1,8 +1,9 @@
----
-title: As a software developer
----
+.. _misc-as-a-software-developer:
 
-by _[Lohn “Human Terror” Hochstein @norootcause](https://twitter.com/norootcause/status/1475518692041510915?s=12)_
+As a software developer
+=======================
+
+by `Lohn “Human Terror” Hochstein @norootcause <https://twitter.com/norootcause/status/1475518692041510915?s=12>`
 
 As a Software developer, you may be called upon to perform some of these tasks in your career. How well a CS degree prepares you for these tasks (and whether it even should prepare you for these) is left as an exercise to the reader.
 

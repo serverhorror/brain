@@ -2,7 +2,7 @@
 
 - part of [[editor|editors]]
 
-## [[docker]] mounts `wayland-0` on Windows
+## [[docker.rst]] mounts `wayland-0` on Windows
 
 Recent versions of the "[_Dev Containers_ `ms-vscode-remote.remote-containers`](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)" extension introduce a new setting.
 This setting tries to detect whether it can mount a socket "`wayland-0`".
