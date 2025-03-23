@@ -1,4 +1,4 @@
-# **Is a Software engineer an engineer?
+# Is a Software engineer an engineer?
 
 > Alberta regulator says no, riling the province's tech sector
 
