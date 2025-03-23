@@ -6,10 +6,22 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+from datetime import datetime as dt
+from datetime import timezone as tz
+
+n = dt.now(tz.utc)
+
 project = "brain"
-copyright = "2025, serverhorror <serverhorror@users.noreply.github.com>"
+copyright = "{}, serverhorror <serverhorror@users.noreply.github.com>".format(n.year)
 author = "serverhorror <serverhorror@users.noreply.github.com>"
-release = "0.0.20250323165336"
+release = "0.0.{}{}{}{}{}{}".format(
+    n.year,
+    n.month,
+    n.day,
+    n.hour,
+    n.minute,
+    n.second,
+)
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -35,5 +47,6 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_title = f"{project}"
 html_theme = "furo"
 html_static_path = ["_static"]
