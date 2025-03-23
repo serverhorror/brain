@@ -5,6 +5,8 @@ ArgoCD
 
 - https://argoproj.github.io/
 
-- :ref:`kb.codefresh.rst`
-- :ref:`kb.crossplane.rst`
+
+
+- :ref:`kb.codefresh`
+- :ref:`kb.crossplane`
 - :ref:`kb.tekton`
