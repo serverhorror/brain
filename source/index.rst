@@ -6,6 +6,40 @@
 Server!/Horror - Brain
 ======================
 
+Todos
+-----
+
+- **ALWAYS**: check the :ref:`inbox` for new notes.
+
+- [ ] Fix and link [[editor]]
+
+- [ ] Link tools
+
+  - :ref:`kb.taskfile-dev`
+  - :ref:`kb.komorebi`
+  - :ref:`kb.youtube-streaming-setup`
+
+- [ ] Link Coding tools / frameworks
+
+  - [ ] [</>htmx](https://htmx.org/attributes/hx-trigger/)
+  - [ ] [[kb.go]] with [[kb.go.managing-go-installations]]
+  - [ ] gRPC
+
+    - [ ] [gRPC](https://grpc.io/)
+    - [ ] [connectRPC](https://connectrpc.com/)
+
+- Reading / Articles
+
+  - [ ] [[misc.secure-systems]]
+  - [ ] [[article.software-development-continuous-production.rst]]
+  - :ref:`misc.if-wasm-existed`
+  - [ ] Cloud: :ref:`kb.gcp`
+
+.. todolist::
+
+
+.. rubric:: Table of Contents
+
 .. toctree::
    :glob:
    :maxdepth: 1

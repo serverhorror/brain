@@ -45,7 +45,7 @@ They are mostly copy/pasted from the original source.
 ## Knowledge Base
 
 - [[CodeKata]]
-- [[bash]]
+- [[kb.bash.rst]]
 - [[semantic-line-breaks]]
 - [[kubernetes]]
 - [[python]]

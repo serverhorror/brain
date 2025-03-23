@@ -6,7 +6,7 @@
 - [ ] Link tools
   - [ ] [[kb.taskfile-dev]]
   - [ ] [[kb.komorebi]]
-  - [ ] [[youtube-streaming-setup]]
+  - [ ] [[kb.youtube-streaming-setup.rst]]
 - [ ] Link Coding tools / frameworks
   - [ ] [</>htmx](https://htmx.org/attributes/hx-trigger/)
   - [ ] [[kb.go]] with [[kb.go.managing-go-installations]]

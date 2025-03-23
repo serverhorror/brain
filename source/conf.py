@@ -16,12 +16,17 @@ release = "0.0.20250323165336"
 
 extensions = [
     "myst_parser",
+    # we want todo items to be shown
+    "sphinx.ext.todo",
 ]
 source_suffix = {
     ".rst": "restructuredtext",
     ".txt": "markdown",
     ".md": "markdown",
 }
+
+# make sure the todo items are shown
+todo_include_todos = True
 
 templates_path = ["_templates"]
 exclude_patterns = []

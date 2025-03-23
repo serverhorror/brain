@@ -1,9 +1,8 @@
----
-title: Bash
-tags:
-  - kb
----
+.. _kb-bash:
 
-- [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+Bash
+====
+
+- `Bash Pitfalls <https://mywiki.wooledge.org/BashPitfalls>`_
 
   This page is a compilation of common mistakes made by bash users. Each example is flawed in some way.

@@ -8,7 +8,6 @@ The platform provides more server side functionality than e.g. HackerRank or Cod
 
 - Individuals can not sign up, this targets companies.
 - Payment happens in credits, which are bought in advance.
-  - Packages start at 40_000 USD.
 
 References
 ----------
