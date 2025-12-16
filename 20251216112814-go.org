@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       35d48dd4-03ac-4231-888a-94d8cb059a7b
+:END:
+#+title: Go
+
+* Go - Customizing Go Binaries with Build Tags
+
+
+- [[https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags][Customizing Go Binaries with Build Tags (digitalocean.com)]]
+
+In your source code put this as the **first** line:
+
+#+begin_src go
+  // +build tag_name
+#+end_src
+
+or (to include):
+
+#+begin_src go
+  //go:build tag_name
+#+end_src
+
+alternatively (to exclude):
+
+#+begin_src go
+  // +build !tag_name
+#+end_src
+
+Then build with:
+
+#+begin_src go
+  go build -tags tag_name
+#+end_src
+
+** Go experiments
+
+.. note::
+
+  The experiments are available via build tags, so you can build with:
+
+as of Go 1.22 the `rangefunc` experiment is available
+
+- see: [[https://pkg.go.dev/internal/goexperiment#pkg-overview][goexperiment package - internal/goexperiment - Go Packages]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       38034051-22b4-4c00-96de-ab75af9fa73f
+:END:
+#+title: README
+#+filetags: :brain:
+
+A brain dump of various things to remember
+
+For the actual content, please see:
+
+- https://serverhorror.github.io/brain
+
+* Knowledge Base
+
+Thas various information points about stuff I discover or tend to forget:
+- foo
+- [[id:034ed05e-4b52-4640-9a9b-9e021a63308c][git]]
+- [[id:35d48dd4-03ac-4231-888a-94d8cb059a7b][Go]]
+
