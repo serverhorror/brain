@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       94ee61e1-21ca-4de0-bc3e-0368d68fbb5a
+:END:
+#+title: CodeKata
+
+
+- [[https://github.com/gamontal/awesome-katas][GitHub - gamontal/awesome-katas: A curated list of code katas]]
+  https://github.com/serverhorror/functools

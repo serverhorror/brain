@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       767fd167-6106-40a2-9889-63228f4ef8e0
+:END:
+#+title: Knowledge Base
+
+
+* Cloud9
+
+A development environment offered by AWS.
+I believe this will soon just die.
+
+Find out:
+
+- Authentication with Cloud9
+- Authorizattion with Cloud9
