@@ -3,9 +3,7 @@
 :END:
 #+title: CodeDesign
 
-* TODO Functional Core, Imperative Shell
-  - [ ] enable mermaid
-
+* TODO Functional Core, Imperative Shell [0/1]
 - [[https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell][Functional Core, Imperative Shell (destroyallsoftware.com)]]
 - [[https://www.youtube.com/watch?v=7Zlp9rKHGD4][Robert C Martin - Functional Programming; What? Why? When? (youtube.com)]]
 - [[https://www.youtube.com/watch?v=P1vES9AgfC4][Moving IO to the edges of your app: Functional Core, Imperative Shell - Scott Wlaschin (youtube.com)]]
@@ -23,3 +21,6 @@ journey
     Validation: 3: Developer
     I/O: 3: Developer
 #+end_src
+
+** TODO enable mermaid
+
