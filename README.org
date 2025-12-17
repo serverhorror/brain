@@ -22,3 +22,4 @@ For the actual content, please see:
 Thas various information points about stuff I discover or tend to forget:
 - [[file:20251216111751-git.org][git]]
 - [[file:./20251216112814-go.org][go]]
+- [[id:6cd80bfb-e3da-4499-9e41-43d6bc4d0b05][AWS Autoscaling]]
