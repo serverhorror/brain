@@ -10,11 +10,14 @@ For the actual content, please see:
 
 - https://serverhorror.github.io/brain
 
-* Random THings
+* Random Things
 
 - [[id:57269c34-a0b0-4e04-8f69-d62744ca1ae2][Quotes]]
 
 * Knowledge Base
+
+  [[id:767fd167-6106-40a2-9889-63228f4ef8e0][Knowledge Base]]
+
 
 Thas various information points about stuff I discover or tend to forget:
 - [[file:20251216111751-git.org][git]]
