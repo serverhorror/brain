@@ -2,6 +2,7 @@
 :ID:       767fd167-6106-40a2-9889-63228f4ef8e0
 :END:
 #+title: Knowledge Base
+#+filetags: :kb:
 
 
 * Cloud9
