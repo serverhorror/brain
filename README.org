@@ -10,6 +10,10 @@ For the actual content, please see:
 
 - https://serverhorror.github.io/brain
 
+* Random THings
+
+- [[id:57269c34-a0b0-4e04-8f69-d62744ca1ae2][Quotes]]
+
 * Knowledge Base
 
 Thas various information points about stuff I discover or tend to forget:
