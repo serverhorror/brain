@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c7649a2f-8b84-4480-ba40-05d4b56ea184
+:END:
+#+title: Inbox
+
+Everything that is unsorted goes here!
+

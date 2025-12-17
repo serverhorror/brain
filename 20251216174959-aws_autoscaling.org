@@ -29,6 +29,9 @@
    - use *Default* version from [LT]
 
 * Using a custom image
+:PROPERTIES:
+:ID:       f952fd96-f347-437f-842c-f854c32e124f
+:END:
 
 1. create separate instance
 2. connect via SSH
@@ -43,8 +46,7 @@
 2. create instance
 3. copy connection information around
 
-   - follow
-     :ref:`kb.architecture.aws-autoscaling.using-a-custom-image`
+   - follow [[id:f952fd96-f347-437f-842c-f854c32e124f][AWS AutoScaling | Using a custom image]]
      to recreate image and renew instances
 
 
