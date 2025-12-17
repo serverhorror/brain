@@ -14,9 +14,9 @@
        http.https://bitbucket.example.com.extraHeader \
        'Authorization: Bearer  Token'
    #+End_src
-   
+
    Some more details
-   
+
    #+begin_src shell
    git clone \
        -c http.extraHeader='Authorization: Bearer REPLACE_WITH_TOKEN' \
@@ -25,9 +25,9 @@
        --global http.https://bitbucket.example.com.extraHeader \
        'Authorization: Bearer  Token'
    #+end_src
-   
+
    *or* (if you don't want to use the token in the header)
-   
+
    #+begin_src shell
    git config --global \
        url."https://<username>:<personal-access-token>@bitbucket.example.com".insteadOf \
