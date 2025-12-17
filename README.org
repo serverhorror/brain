@@ -13,7 +13,5 @@ For the actual content, please see:
 * Knowledge Base
 
 Thas various information points about stuff I discover or tend to forget:
-- foo
-- [[id:034ed05e-4b52-4640-9a9b-9e021a63308c][git]]
-- [[id:35d48dd4-03ac-4231-888a-94d8cb059a7b][Go]]
-
+- [[file:20251216111751-git.org][git]]
+- [[file:./20251216112814-go.org][go]]
