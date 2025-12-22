@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       e5d884f4-b3a1-4df5-af37-38e0e3d53b0c
+:END:
+#+title: Semantic Line Breaks
+#+filetags: :semantic:kb:
+
+* Semantic Line Breaks Specification (SemBr)
+
+
+  The key words “must”, “must not”, “required”, “shall”, “shall not”,
+  “should”, “should not”, “recommended”, “may”, and “optional” in this
+  document are to be interpreted as described in
+  [[https://www.ietf.org/rfc/rfc2119.txt][RFC 2119]].
+
+When writing source documentation in a format such as Markdown,
+reStructuredText or AsciiDoc,
+I recommend you place every sentence on its own line and don't use fixed-column word-wrapping.
+
+#+begin_src markdown
+# Advantages
+
+- It prevents reflows
+  (meaning a change early in the paragraph
+    won't cause the remaining lines in the paragraph to reposition),
+    which ensures code diffs look more clean.
+- It lets you swap sentences more easily.
+- It lets you separate and join paragraphs more easily.
+- It lets you comment out sentences or add commentary to them.
+- You can spot sentences which are too long or sentences that vary
+  widely in length.
+- You can spot redundant (and thus mundane) patterns in your writing.
+- You can easily apply bulk actions on sentences with editor macros,
+  such as converting to list items by prepending a dash to each line.
+- It improves using GitHub's “suggest changes” workflow,
+  as it lets your reviewer start a new suggestion for each sentence
+    instead of having to combine them.
+#+end_src
+
+* References
+
+- Rhodes, Brandon.  “[[https://rhodesmill.org/brandon/2012/one-sentence-per-line/][Semantic Linefeeds]]” April 3, 2012
+- “[[https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line][AsciiDoc Recommended Practices: One Sentence Per Line]]”, Accessed January 22,  2021
+- [[https://nick.groenen.me/notes/one-sentence-per-line/][One sentence per line]]
+- “[[https://sembr.org/][Semantic Line Breaks]]” Accessed January 22, 2021

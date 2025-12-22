@@ -5,43 +5,13 @@
 
 Everything that is unsorted goes here!
 
-* TODO Emacs Zen Modes                                             :emacs:kb:
+* Open Todos [0/3]
 
-- [[https://github.com/joostkremers/writeroom-mode][writeroom-mode]]
-- [[https://github.com/joaotavora/darkroom][Darkroom]]
-- [[https://github.com/rnkn/olivetti][Olivetti]]
+** TODO Python [0/1]
 
-* TODO Emacs Modes
+*** TODO Pyright Language Server                          :emacs:python:kb:
 
-- [[https://github.com/andre-r/centered-cursor-mode.el][centered-cursor-mode]]
-  Keeps the cursor in the center.
-  This seems to *not* work when going to the top of the file
-- [[https://github.com/trevorpogue/topspace][topspace]]
-
-  :README:
-  TopSpace is an Emacs minor mode that lets you display a buffer's first line in the center of a window instead of just at the top. This is done by automatically drawing an upper margin/padding above line 1 as you recenter and scroll it down.
-
-  Features
-    - Easier on the eyes:
-      Recenter or scroll down top text to a more comfortable eye level for reading,
-      especially when in full-screen or on a large monitor.
-    - Easy to use:
-      No new keybindings are required,
-      keep using all your previous scrolling & recentering commands,
-      except now you can also scroll down the first line.
-      It also integrates seamlessly with =centered-cursor-mode=
-      to keep the cursor centered all the way to the first line.
-  :END:
+- [[https://github.com/emacs-lsp/lsp-pyright][lsp-pyright (github.com)]]
+- [[https://microsoft.github.io/pyright][Pyright (microsoft.github.io)]]
 
 
-  Look at this setting:
-
-  #+begin_src emacs-lisp
-    (setq ccm-recenter-at-end-of-file t)
-  #+end_src
-
-** Scrolling
-
-#+begin_src emacs-lisp
-  (setq scroll-margin 10)
-#+end_src

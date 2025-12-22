@@ -14,14 +14,7 @@ n = dt.now(tz.utc)
 project = "brain"
 copyright = "{}, serverhorror <serverhorror@users.noreply.github.com>".format(n.year)
 author = "serverhorror <serverhorror@users.noreply.github.com>"
-release = "0.0.{}{}{}{}{}{}".format(
-    n.year,
-    n.month,
-    n.day,
-    n.hour,
-    n.minute,
-    n.second,
-)
+release = "0.0.{}{}{}{}{}{}".format(n.year, n.month, n.day, n.hour, n.minute, n.second)
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

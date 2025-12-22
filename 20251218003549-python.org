@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       41297985-64ca-4278-84ca-f2859baad7e6
+:END:
+#+title: Python
+
+* Write yourself a Git
+Source:
+
+- <https://wyag.thb.lt/>
+
+  Implement basic =kb.git= functionality.
+
+* JuPyter Notebook
+- [[/_assets/example.ipynb][Link to JuPyter Notebook]]
+
+#+INCLUDE: "./_assets/example.ipynb" src json :only-contents t
+
+

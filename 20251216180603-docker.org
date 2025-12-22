@@ -5,7 +5,7 @@
 #+filetags: :container:docker:kb:
 
 
-* Oh my! Docker, Images, Containers [0/1]
+* Oh my! Docker, Images, Containers [1/1]
 
 Let's talk these.
 
@@ -32,9 +32,10 @@ Let's clarify some vocabulary:
 
 How does this look?
 
-** TODO enable mermaid
+** DONE enable mermaid
+CLOSED: [2025-12-17 Wed 23:21]
 
-#+begin_src mermaid
+#+begin_src mermaid :file mm.png
   %%{ init: { 'flowchart': { 'curve': 'monotoneX' } } }%%
   graph LR
 
@@ -64,6 +65,9 @@ How does this look?
 
   podman_build & docker_build-->image-->container
 #+end_src
+
+#+RESULTS:
+[[file:mm.png]]
 
 * Prepare your environment [0/0]
 
