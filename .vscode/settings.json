@@ -1,34 +1,40 @@
 {
-  "[markdown]": {
-    "editor.quickSuggestions": {
-      "comments": false,
-      "other": true,
-      "strings": false
-    }
-  },
-  "editor.lineHeight": 24,
-  "editor.minimap.enabled": false,
-  "editor.overviewRulerBorder": false,
-  "editor.wrappingIndent": "indent",
-  "files.autoSave": "onFocusChange",
-  "files.exclude": {
-    "_site/**": true
-  },
-  "files.insertFinalNewline": true,
-  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
-  "foam.files.ignore": [
-    ".venv/**",
-    ".vscode/**",
-    ".zk/**",
-    "_layouts/**",
-    "_site/**",
-    "assets/**",
-    "attachments/**",
-    "images/**",
-    "node_modules/**",
-    "public/**",
-    "vendor/**"
-  ],
-  "gitdoc.enabled": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"]
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "comments": false,
+            "other": true,
+            "strings": false
+        }
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#1a191a",
+        "activityBar.background": "#ebc91d",
+        "titleBar.activeBackground": "#ebc91d",
+        "titleBar.activeForeground": "#1a191a",
+        "titleBar.border": "#ebc91d",
+        "titleBar.inactiveBackground": "#816c01",
+        "titleBar.inactiveForeground": "#1a191a",
+        "window.activeBorder": "#ebc91d",
+        "window.inactiveBorder": "#ebc91d"
+    },
+    "editor.lineHeight": 24,
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.wrappingIndent": "indent",
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "_site/**": true
+    },
+    "files.insertFinalNewline": true,
+    "files.simpleDialog.enable": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "foam.edit.linkReferenceDefinitions": "withExtensions",
+    "foam.files.defaultNoteExtension": "foam.md",
+    "foam.files.notesExtensions": "md markdown",
+    "foam.graph.onStartup": true,
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "sync",
+    "markdown.styles": [".vscode/custom-tag-style.css"],
+    "markdown.updateLinksOnFileMove.enabled": "always"
 }

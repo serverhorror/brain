@@ -1,0 +1,23 @@
+---
+created: 2026-05-07
+tags:
+  - kb
+---
+
+# Tekton
+
+- <https://tekton.dev/>
+
+## Tekton is more of a framework than a tool to be used by all developers
+
+It exposes a lot of complexity by design. The reason for this is,
+developers decided to make it flexible enough to create simpler
+frameworks based on Tekton
+
+- [[argocd/note.foam.md]]
+- [[codefresh/note.foam.md]]
+- [[crossplane/note.foam.md]]
+
+[argocd/note.foam.md]: ../argocd/note.foam.md "Architecture"
+[codefresh/note.foam.md]: ../codefresh/note.foam.md "codefresh"
+[crossplane/note.foam.md]: ../crossplane/note.foam.md "Crossplane"
