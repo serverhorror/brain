@@ -1,3 +1,7 @@
+---
+type: inbox
+---
+
 # Inbox
 
 ## Interesting Texts
@@ -32,9 +36,36 @@ Not much has changed, but they served well for ~15 years.
 This is a collection of interesting texts that I have come across.
 They are mostly copy/pasted from the original source.
 
-- [ ] TODO: [GitHub - gamontal/awesome-katas: A curated list of code katas](https://github.com/gamontal/awesome-katas)
+- [ ] #TODO: [GitHub - gamontal/awesome-katas: A curated list of code katas](https://github.com/gamontal/awesome-katas)
 - [ ] [lsp-pyright (github.com)](https://github.com/emacs-lsp/lsp-pyright)
 - [ ] [Pyright (microsoft.github.io)](https://microsoft.github.io/pyright)
+
+<!-- markdownlint-disable MD033-->
+<details>
+<summary>TODOs, FIXMEs, and BUGs</summary>
+
+## TODOs
+
+```foam-query
+filter:
+  or:
+   - tag: "#todo"
+   - tag: "#TODO"
+   - tag: "#fixme"
+   - tag: "#FIXME"
+   - tag: "#bug"
+   - tag: "#BUG"
+format: table
+select:
+  - title
+  - tags
+  - backlink-count
+  - outlink-count
+sort: title ASC
+```
+
+</details>
+<!-- markdownlint-enable MD033-->
 
 [rules.foam.md]: misc/rules.foam.md "Rules"
 [as-a-software-developer.foam.md]: misc/as-a-software-developer.foam.md "As a software developer"

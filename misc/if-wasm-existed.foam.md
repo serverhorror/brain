@@ -1,6 +1,8 @@
 ---
 created: 2026-05-07
-tags:  \[misc\]
+tags:
+  - misc
+title: If WASM+WASI existed ...
 ---
 
 <!-- markdownlint-disable-next-line MD026 -->

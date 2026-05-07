@@ -23,9 +23,21 @@ curl.exe -L -O https://github.com/zk-org/zk/releases/download/v0.15.4/zk-v0.15.4
 
 ## Resources
 
-- [zk-vscode (VS Code Marketplace)](https://marketplace.visualstudio.com/items?itemName=mickael-menu.zk-vscode)
 - [zk-vscode (github.com)](https://github.com/zk-org/zk-vscode)
 - see: [[powershell-environment-variables/note.foam.md#Set Environment Variable]]
+
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Deprecated Resources</summary>
+
+### Deprecated Resources
+
+> [!WARNING]
+>
+> - [zk-vscode (VS Code Marketplace)](https://marketplace.visualstudio.com/items?itemName=mickael-menu.zk-vscode)
+
+</details>
+<!-- markdownlint-enable MD033 -->
 
 ## Sources
 

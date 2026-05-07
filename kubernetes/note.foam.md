@@ -8,7 +8,7 @@ tags:
 
 ## Kubernetes I*n* Docker (KI*n*D)
 
-- [ ] FIXME: enable mermaid
+- [ ] #BUG: enable mermaid
 
 ```mermaid
 graph LR
@@ -19,7 +19,7 @@ graph LR
   end
 ```
 
-- [ ] FIXME: enable mermaid
+- [ ] #BUG: enable mermaid
 
 ```mermaid
 graph LR

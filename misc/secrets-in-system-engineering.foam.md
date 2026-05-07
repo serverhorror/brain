@@ -1,6 +1,7 @@
 ---
 created: 2026-05-07
-tags:  \[misc\]
+tags:
+  - misc
 ---
 
 # Secrets in Systems Engineering

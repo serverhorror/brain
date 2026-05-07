@@ -4,7 +4,7 @@ tags:
   - kb
 ---
 
-# Architecture {#kb.architecture}
+# Architecture
 
 - [[aws-autoscaling.md]]
 

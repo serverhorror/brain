@@ -1,3 +1,12 @@
+---
+created: 2026-05-08
+type: kb
+alias: install-vs-2022-build-tools
+tags:
+  - kb
+  - windows
+---
+
 # Install Visual Studio 2022 Build Tools
 
 ```powershell

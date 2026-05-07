@@ -1,6 +1,8 @@
 ---
 created: 2026-05-07
-tags:  \[misc\]
+tags:
+  - misc
+  - BUG
 ---
 
 # IT Career Path
@@ -212,7 +214,7 @@ Job Complexity            ➕➕
 
 ### Description
 
-- [ ] FIXME: ...
+- [ ] ##BUG: ...
 
 ### Profile
 

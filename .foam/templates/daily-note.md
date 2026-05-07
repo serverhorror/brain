@@ -1,5 +1,7 @@
 ---
 created: ${FOAM_DATE_FORMAT:YYYY-MM-DD}
+type: daily-note
+author: ${FOAM_USER_NAME}
 foam_template:
   filepath: "/journal/${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}/${FOAM_DATE_FORMAT:YYYY-MM-DD}.note.foam.md"
   description: "Daily note (${FOAM_DATE_FORMAT:YYYY-MM-DD})"

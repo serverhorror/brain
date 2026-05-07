@@ -15,5 +15,5 @@ tags:
 - the NASA computers -- hired in the 1930s; to, literally, compute
   complex calculations. (This is, if I remember correctly, where the
   term computer originates from).
-  - [ ] TODO Verify Alan Shepard
+  - [ ] #TODO Verify Alan Shepard
     (not sure about that part, I believe she did it with pen & paper)

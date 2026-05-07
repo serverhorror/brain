@@ -1,3 +1,10 @@
+---
+created: 2026-05-08
+tags:
+  - kb
+  - windows
+---
+
 # Windows - Hyper-V
 
 A _Hyper_-what-now?

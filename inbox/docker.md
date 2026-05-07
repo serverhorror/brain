@@ -33,7 +33,7 @@ Let's clarify some vocabulary:
 
 How does this look?
 
-- [ ] FIXME: Enable `mermaid`
+- [ ] #BUG: Enable `mermaid`
 
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'monotoneX' } } }%%
@@ -68,9 +68,9 @@ podman_build & docker_build-->image-->container
 
 ## Prepare your environment
 
-- [ ] FIXME: Add a section about installing other tools
-- [ ] FIXME: Rancher Desktop
-- [ ] FIXME: Podman Desktop
+- [ ] #BUG: Add a section about installing other tools
+- [ ] #BUG: Rancher Desktop
+- [ ] #BUG: Podman Desktop
 
 ### Docker Containers
 

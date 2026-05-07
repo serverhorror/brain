@@ -1,6 +1,7 @@
 ---
 created: 2026-05-07
-tags:  \[misc\]
+tags:
+  - misc
 ---
 
 # As a software developer
@@ -67,12 +68,12 @@ by [Lohn "Human Terror" Hochstein @norootcause](https://twitter.com/norootcause/
 >
 > ...(I'll randomly do some more as it strikes me)...
 >
-> 25. Instrument your code to make it easier to reason about its behavior
+> 1. Instrument your code to make it easier to reason about its behavior
 >     when it's running (i.e., improve operability).
-> 26. Describe, in writing, examples of the human activities that your
+> 2. Describe, in writing, examples of the human activities that your
 >     software system is intended to support.
-> 27. Develop a deeper understanding of a system that you now work on but
+> 3. Develop a deeper understanding of a system that you now work on but
 >     `^W` didn't build.
 >
-> 28. Look into the history of how an internal system came to be
+> 4. Look into the history of how an internal system came to be
 >     implemented the way it was.

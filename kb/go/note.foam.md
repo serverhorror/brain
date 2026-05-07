@@ -19,7 +19,7 @@ tags:
 > [!WARNING]
 > New versions of go have native support for this!
 
-- [ ] FIXME: this is a bit of a hack, but it works. It allows us to have a "self
+- [ ] #BUG: this is a bit of a hack, but it works. It allows us to have a "self
   contained" codebase, there are not (a lot of) external tools required
   for this to work.
 
@@ -98,7 +98,7 @@ Source
   `go.mod` reference for more)
   illustrates how to require a specific version number:
 
-  - [ ] FIXME: find out if go.mod lexer is available
+  - [ ] #BUG: find out if go.mod lexer is available
 
   ```gomod
   # gomod

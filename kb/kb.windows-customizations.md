@@ -2,6 +2,7 @@
 created: 2026-05-07
 tags:
   - kb
+  - windows
 ---
 
 # Windows Customizations
@@ -41,7 +42,7 @@ Source:
 
 1. Save the following as a `.reg` file.
 
-   .. todo:: FIXME find a pygments lexer for `reg` files
+   - [ ] #BUG: find a pygments lexer for `reg` files
 
    ```text
    Windows Registry Editor Version 5.00

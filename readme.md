@@ -7,6 +7,5 @@ This just exists to quickly go the the published page:
 ## Other Things
 
 - [[inbox.md]]
-- #todo, #fixme
 
 [inbox.md]: inbox.md "Inbox"

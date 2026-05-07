@@ -4,12 +4,12 @@ tags:
   - kb
   - k8s
   - kubernetes
-  - fixme
+  - BUG
 ---
 
 # Kubernetes - Create a Simple Resource
 
-- [ ] FIXME: CrashLoopBackOff? WTF?
+- [ ] #BUG: CrashLoopBackOff? WTF?
 
 1. Running things directly
 

@@ -1,14 +1,37 @@
+---
+created: 2026-05-08
+type: index
+tags:
+  - kb
+  - windows
+---
+
 # Windows
 
-* [[kb.windows-customizations]]
-* [[make-on-windows/note.foam.md]]
-* [[windows-powershell.rst]]
-* [[windows-install-visual-studio-2022-build-tools.md]]
+## Windows Notes
 
-## Virtualization
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Windows Notes</summary>
+```foam-query
+filter: "#windows"
+format: count
+```
+</details>
+<!-- markdownlint-enable MD033 -->
 
-* [[windows-hyperv.md]]
-
-[make-on-windows/note.foam.md]: make-on-windows/note.foam.md "make on Windows"
-[windows-install-visual-studio-2022-build-tools.md]: windows-install-visual-studio-2022-build-tools.md "Install Visual Studio 2022 Build Tools"
-[windows-hyperv.md]: windows-hyperv.md "Windows - Hyper-V"
+```foam-query
+filter: "#windows"
+format: table
+select:
+  - x
+  - title
+  - type
+  - tags
+  - properties
+  - properties.type
+  - properties.created
+  - backlink-count
+  - outlink-count
+sort: title ASC
+```
