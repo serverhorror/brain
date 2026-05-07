@@ -32,7 +32,7 @@
     "foam.edit.linkReferenceDefinitions": "withExtensions",
     "foam.files.defaultNoteExtension": "foam.md",
     "foam.files.notesExtensions": "md markdown",
-    "foam.graph.onStartup": true,
+    "foam.graph.onStartup": false,
     "git.enableSmartCommit": true,
     "git.postCommitCommand": "sync",
     "markdown.styles": [".vscode/custom-tag-style.css"],
