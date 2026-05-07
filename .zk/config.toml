@@ -1,0 +1,14 @@
+[note]
+extension = "zk.md"
+
+[alias]
+edit = "zk edit --interactive"
+inline = "zk list --quiet --format {{path}} --delimiter , $@"
+# Edit the last modified note.
+edlast = "zk edit --limit 1 --sort modified- $@"
+
+# Edit the notes selected interactively among the notes created the last two weeks.
+recent = "zk edit --sort created- --created-after 'last two weeks' --interactive"
+
+# Show a random note.
+lucky = "zk list --quiet --format full --sort random --limit 1"
