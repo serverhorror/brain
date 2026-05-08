@@ -7,6 +7,12 @@ tags:
 
 # Go
 
+## Installation on Windows
+
+```powershell
+winget install -e --id=GoLang.Go
+```
+
 ## General
 
 - [Learn Go with tests
