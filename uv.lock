@@ -33,6 +33,7 @@ dependencies = [
     { name = "mkdocs-exclude" },
     { name = "mkdocs-material" },
     { name = "mkdocs-roamlinks-plugin" },
+    { name = "pymdown-extensions" },
 ]
 
 [package.dev-dependencies]
@@ -46,6 +47,7 @@ requires-dist = [
     { name = "mkdocs-exclude", specifier = "==1.0.2" },
     { name = "mkdocs-material", specifier = "==9.7.6" },
     { name = "mkdocs-roamlinks-plugin", specifier = "==0.3.2" },
+    { name = "pymdown-extensions", specifier = "==10.21.2" },
 ]
 
 [package.metadata.requires-dev]

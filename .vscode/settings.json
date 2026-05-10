@@ -21,6 +21,7 @@
     "foam.files.defaultNoteExtension": "foam.md",
     "foam.files.notesExtensions": "md markdown",
     "foam.graph.onStartup": false,
+    "foam.links.directory.mode": "resolve",
     "git.enableSmartCommit": true,
     "git.postCommitCommand": "none",
     "gitdoc.autoCommitDelay": 5000,
