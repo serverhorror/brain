@@ -35,6 +35,7 @@
     "markdown.styles": [".vscode/custom-tag-style.css"],
     "markdown.updateLinksOnFileMove.enabled": "always",
     "peacock.color": "#f9e64f",
+    "workspaceKeybindings.myAwesomeTask.enabled": true, // setting can be anything you want
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#fbed80",
         "activityBar.background": "#fbed80",
