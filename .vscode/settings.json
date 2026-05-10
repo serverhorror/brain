@@ -22,19 +22,18 @@
     "foam.files.notesExtensions": "md markdown",
     "foam.graph.onStartup": false,
     "git.enableSmartCommit": true,
-    "git.postCommitCommand": "sync",
+    "git.postCommitCommand": "none",
     "gitdoc.autoCommitDelay": 5000,
     "gitdoc.autoPush": "off",
     "gitdoc.commitMessageFormat": "'fixup! 'yyyy-LL-dd'T'TTZZZ",
     "gitdoc.commitValidationLevel": "warning",
     "gitdoc.enabled": true,
-    "gitdoc.filePattern": "**/*",
+    "gitdoc.filePattern": "**/*.foam.md",
     "gitdoc.noVerify": true,
     "gitdoc.pushMode": "push",
     "markdown.styles": [".vscode/custom-tag-style.css"],
     "markdown.updateLinksOnFileMove.enabled": "always",
     "peacock.color": "#f9e64f",
-    "workspaceKeybindings.myAwesomeTask.enabled": true, // setting can be anything you want
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#fbed80",
         "activityBar.background": "#fbed80",
@@ -55,6 +54,5 @@
         "titleBar.inactiveForeground": "#15202b99",
         "window.activeBorder": "#ebc91d",
         "window.inactiveBorder": "#ebc91d"
-    },
-    "yaml.customTags": ["tag:yaml.org,2002:python/name:pymdownx.slugs.uslugify"]
+    }
 }
