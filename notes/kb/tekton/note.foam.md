@@ -20,4 +20,4 @@ frameworks based on Tekton
 
 xxx
 
-- [[kb/argocd/note.foam.md]]
+- [[notes/kb/argocd/note.foam.md]]
