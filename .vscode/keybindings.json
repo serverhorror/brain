@@ -6,6 +6,7 @@
         "command": "foam-vscode.create-note",
         "args": {
             "onFileExists": "open"
-        }
+        },
+        "when": "config.workspaceKeybindings.myAwesomeTask.enabled" // Must be "config.{settingName}"
     }
 ]
