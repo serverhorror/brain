@@ -15,5 +15,5 @@ developers decided to make it flexible enough to create simpler
 frameworks based on Tekton
 
 - [[../argocd/note.foam.md]]
-- [[../codefresh/note.foam.md]]
-- [[../crossplane/note.foam.md]]
+- [[kb/codefresh/note.foam.md]]
+- [[kb/crossplane/note.foam.md]]
