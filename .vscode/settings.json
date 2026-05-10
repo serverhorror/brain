@@ -6,17 +6,6 @@
             "strings": false
         }
     },
-    "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#1a191a",
-        "activityBar.background": "#ebc91d",
-        "titleBar.activeBackground": "#ebc91d",
-        "titleBar.activeForeground": "#1a191a",
-        "titleBar.border": "#ebc91d",
-        "titleBar.inactiveBackground": "#816c01",
-        "titleBar.inactiveForeground": "#1a191a",
-        "window.activeBorder": "#ebc91d",
-        "window.inactiveBorder": "#ebc91d"
-    },
     "editor.lineHeight": 24,
     "editor.minimap.enabled": false,
     "editor.overviewRulerBorder": false,
@@ -35,6 +24,36 @@
     "foam.graph.onStartup": false,
     "git.enableSmartCommit": true,
     "git.postCommitCommand": "sync",
+    "gitdoc.autoCommitDelay": 5000,
+    "gitdoc.autoPush": "off",
+    "gitdoc.commitMessageFormat": "'fixup! 'yyyy-LL-dd'T'TTZZZ",
+    "gitdoc.commitValidationLevel": "warning",
+    "gitdoc.enabled": true,
+    "gitdoc.filePattern": "**/*",
+    "gitdoc.noVerify": true,
+    "gitdoc.pushMode": "push",
     "markdown.styles": [".vscode/custom-tag-style.css"],
-    "markdown.updateLinksOnFileMove.enabled": "always"
+    "markdown.updateLinksOnFileMove.enabled": "always",
+    "peacock.color": "#f9e64f",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#fbed80",
+        "activityBar.background": "#fbed80",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#06b9a5",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#fbed80",
+        "statusBar.background": "#f9e64f",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#f7df1e",
+        "statusBarItem.remoteBackground": "#f9e64f",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#f9e64f",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#f9e64f99",
+        "titleBar.inactiveForeground": "#15202b99",
+        "window.activeBorder": "#ebc91d",
+        "window.inactiveBorder": "#ebc91d"
+    }
 }
