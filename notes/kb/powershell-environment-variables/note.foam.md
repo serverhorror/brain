@@ -8,7 +8,7 @@ tags:
 
 # PowerShell Environment Variables
 
-## Set Environment Variable
+## Set Environment Variable ^set-environment-variable
 
 ```powershell
 [Environment]::SetEnvironmentVariable('KEY', 'VALUE', [EnvironmentVariableTarget]::User)
