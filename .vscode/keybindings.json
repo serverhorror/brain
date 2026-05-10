@@ -1,8 +1,11 @@
 // This file does not get automatically applied
 // @TODO: Make it work or document how to copy to user keybindings
 [
-  {
-    "key": "cmd+shift+n",
-    "command": "foam-vscode.create-note"
-  }
+    {
+        "key": "cmd+shift+n",
+        "command": "foam-vscode.create-note",
+        "args": {
+            "onFileExists": "open"
+        }
+    }
 ]
