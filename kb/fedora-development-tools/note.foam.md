@@ -1,6 +1,7 @@
 ---
 created: 2026-05-10
 author: serverhorror <>
+type: kb
 tags:
   - kb
   - linux
