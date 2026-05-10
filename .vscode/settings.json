@@ -18,7 +18,6 @@
     "files.simpleDialog.enable": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "foam.edit.linkReferenceDefinitions": "withExtensions",
     "foam.files.defaultNoteExtension": "foam.md",
     "foam.files.notesExtensions": "md markdown",
     "foam.graph.onStartup": false,
@@ -56,5 +55,6 @@
         "titleBar.inactiveForeground": "#15202b99",
         "window.activeBorder": "#ebc91d",
         "window.inactiveBorder": "#ebc91d"
-    }
+    },
+    "yaml.customTags": ["tag:yaml.org,2002:python/name:pymdownx.slugs.uslugify"]
 }
