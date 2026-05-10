@@ -14,6 +14,6 @@ It exposes a lot of complexity by design. The reason for this is,
 developers decided to make it flexible enough to create simpler
 frameworks based on Tekton
 
-- [[../argocd/note.foam.md]]
+- [[kb/argocd/note.foam.md]]
 - [[kb/codefresh/note.foam.md]]
 - [[kb/crossplane/note.foam.md]]
