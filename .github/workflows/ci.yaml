@@ -22,4 +22,4 @@ jobs:
       # - run: pip install mkdocs-exclude
       # - run: pip install mkdocs-roamlinks-plugin
       # - run: mkdocs gh-deploy --force
-      - run: mkdocs build
+      - run: uv run mkdocs build
