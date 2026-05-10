@@ -2,7 +2,7 @@
 // @TODO: Make it work or document how to copy to user keybindings
 [
     {
-        "key": "cmd+shift+n",
+        "key": "alt+n",
         "command": "foam-vscode.create-note",
         "args": {
             "onFileExists": "open"
