@@ -17,3 +17,7 @@ frameworks based on Tekton
 - [[kb/argocd/note.foam.md]]
 - [[kb/codefresh/note.foam.md]]
 - [[kb/crossplane/note.foam.md]]
+
+xxx
+
+- [[kb/argocd/note.foam.md]]
