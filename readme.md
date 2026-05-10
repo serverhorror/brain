@@ -8,4 +8,4 @@ This just exists to quickly go the the published page:
 
 - [[inbox.md]]
 
-[inbox.md]: inbox.md "Inbox"
+[inbox.md]: notes/inbox.md "Inbox"

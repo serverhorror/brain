@@ -3,6 +3,7 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: brain
+docs_dir: notes
 theme:
   name: material
   #  favicon: attachment/portrait.png
@@ -20,7 +21,7 @@ markdown_extensions:
   - admonition
   - codehilite:
       guess_lang: false
-      linenums: false
+      linenums: true
   - footnotes
   - meta
   - def_list
