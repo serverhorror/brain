@@ -24,7 +24,7 @@ curl.exe -L -O https://github.com/zk-org/zk/releases/download/v0.15.4/zk-v0.15.4
 ## Resources
 
 - [zk-vscode (github.com)](https://github.com/zk-org/zk-vscode)
-- see: [[powershell-environment-variables/note.foam.md#set-environment-variable]]
+- see: [[powershell-environment-variables/note.foam.md#Set Environment Variable]]
 
 <!-- markdownlint-disable MD033 -->
 <details>
