@@ -1,34 +1,59 @@
 {
-  "[markdown]": {
-    "editor.quickSuggestions": {
-      "comments": false,
-      "other": true,
-      "strings": false
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "comments": false,
+            "other": true,
+            "strings": false
+        }
+    },
+    "editor.lineHeight": 24,
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.wrappingIndent": "indent",
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "_site/**": true
+    },
+    "files.insertFinalNewline": true,
+    "files.simpleDialog.enable": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "foam.files.defaultNoteExtension": "foam.md",
+    "foam.files.notesExtensions": "md markdown",
+    "foam.graph.onStartup": false,
+    "foam.links.directory.mode": "resolve",
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "none",
+    "gitdoc.autoCommitDelay": 5000,
+    "gitdoc.autoPush": "off",
+    "gitdoc.commitMessageFormat": "'fixup! 'yyyy-LL-dd'T'TTZZZ",
+    "gitdoc.commitValidationLevel": "warning",
+    "gitdoc.enabled": true,
+    "gitdoc.filePattern": "**/*.foam.md",
+    "gitdoc.noVerify": true,
+    "gitdoc.pushMode": "push",
+    "markdown.styles": [".vscode/custom-tag-style.css"],
+    "markdown.updateLinksOnFileMove.enabled": "always",
+    "peacock.color": "#f9e64f",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#fbed80",
+        "activityBar.background": "#fbed80",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#06b9a5",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#fbed80",
+        "statusBar.background": "#f9e64f",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#f7df1e",
+        "statusBarItem.remoteBackground": "#f9e64f",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#f9e64f",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#f9e64f99",
+        "titleBar.inactiveForeground": "#15202b99",
+        "window.activeBorder": "#ebc91d",
+        "window.inactiveBorder": "#ebc91d"
     }
-  },
-  "editor.lineHeight": 24,
-  "editor.minimap.enabled": false,
-  "editor.overviewRulerBorder": false,
-  "editor.wrappingIndent": "indent",
-  "files.autoSave": "onFocusChange",
-  "files.exclude": {
-    "_site/**": true
-  },
-  "files.insertFinalNewline": true,
-  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
-  "foam.files.ignore": [
-    ".venv/**",
-    ".vscode/**",
-    ".zk/**",
-    "_layouts/**",
-    "_site/**",
-    "assets/**",
-    "attachments/**",
-    "images/**",
-    "node_modules/**",
-    "public/**",
-    "vendor/**"
-  ],
-  "gitdoc.enabled": true,
-  "markdown.styles": [".vscode/custom-tag-style.css"]
 }

@@ -1,0 +1,66 @@
+---
+created: 2026-05-07
+id: 41297985-64ca-4278-84ca-f2859baad7e6
+tags:
+  - misc
+  - python
+  - kb
+---
+
+# Python
+
+## Write yourself a Git
+
+Source:
+
+- <https://wyag.thb.lt/>
+
+  Implement basic #git functionality.
+
+## JuPyter Notebook
+
+- [Link to JuPyter Notebook](./example.ipynb)
+
+```json
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "",
+     "evalue": "",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[1;31mRunning cells with 'c:\\Users\\marti\\AppData\\Local\\Programs\\Python\\Python310\\python.exe' requires ipykernel package.\n",
+      "\u001b[1;31mRun the following command to install 'ipykernel' into the Python environment. \n",
+      "\u001b[1;31mCommand: 'c:/Users/marti/AppData/Local/Programs/Python/Python310/python.exe -m pip install ipykernel -U --user --force-reinstall'"
+     ]
+    }
+   ],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.10.6 (tags/v3.10.6:9c7b4bd, Aug  1 2022, 21:53:49) [MSC v.1932 64 bit (AMD64)]"
+  },
+  "orig_nbformat": 4,
+  "vscode": {
+   "interpreter": {
+    "hash": "e7ccb2a435b656723dafd2fb88eb02b6891256ab8b77d2cf3044cea9811453d0"
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
+```

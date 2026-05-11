@@ -1,14 +1,14 @@
 {
-  // See http://go.microsoft.com/fwlink/?LinkId=827846
-  // for the documentation about the extensions.json format
-  "recommendations": [
-    // Foam's own extension
-    "yzhang.markdown-all-in-one",
-
-    // Prettier for auto formatting code
-    "esbenp.prettier-vscode",
-    "davidanson.vscode-markdownlint",
-    "github.vscode-github-actions",
-    "lextudio.restructuredtext"
-  ]
+    // See http://go.microsoft.com/fwlink/?LinkId=827846
+    // for the documentation about the extensions.json format
+    "recommendations": [
+        "davidanson.vscode-markdownlint",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "foam.foam-vscode",
+        "johnpapa.vscode-peacock",
+        "usernamehw.errorlens",
+        "vsls-contrib.gitdoc",
+        "yzhang.markdown-all-in-one"
+    ]
 }
