@@ -1,6 +1,7 @@
 ---
 created: 2026-05-11
-author:
+type: note
+author: serverhorror <>
 ---
 
 # brain
