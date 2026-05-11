@@ -27,6 +27,9 @@ jobs:
           # uv pip install mkdocs-exclude
           # uv pip install mkdocs-roamlinks-plugin
           uv run mkdocs build
+      - name: "Debug: List files in site directory"
+        run: |
+          find site/ -ls
       - name: "Build documentation"
         run: uv run mkdocs build
       - name: "Upload artifact"
